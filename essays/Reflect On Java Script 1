@@ -11,44 +11,18 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+Introduction:
+In my journey into the world of programming, I have used various programming languages such as Java, C++, and C#, each with it’s own pros and cons that I notice over the others. However, with my recent exposure to JavaScript has been a welcome experience for me. As a complete beginner to JavaScript, I have found it to be great, especially compared to the others. This essay delves into my impression of JavaScript and the concept of athletic software engineering.
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+JavaScript’s Versatility:
+One of the standout features of JavaScript compared to my previous languages is its versatility. A big reason I feel this way is because, for example, Java with its heavy syntax makes programming and its actions feel restrictive and counterintuitive. However, JavaScript often surprises me with its flexibility. For instance, the ability to use strings as dictionaries within an array, effortlessly store objects within arrays, and even nest objects and arrays within one another feels almost wrong and too easy. Features like these for me open up a lot more creative possibilities that were not as clear with languages like Java or C++ when I was first starting out. 
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+JavaScript from a Software Engineering Perspective:
+From a software engineering perspective, JavaScript is amazing. I think that it provides a good balance of being intuitive to users and maintaining it’s complexity. It’s presence on the web makes sure that it’s a valuable skill to have in the field of computer science. 
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+Athletic Software Engineering in ICS314:
+While the athletic software engineering approach can be stressful, so far I have found the experience quite rewarding especially when I am successful in completing the WODs. I think that it prepares students for the demands of software development in a professional setting where tight deadlines must be met. I think that working hard and successfully completing WODs provides a sense of accomplishment. A lot of pressure I notice comes from the fact that time is limited while you must accomplish the task efficiently. As a result, I think that it’s great practice overall to work under pressure while being able to think. Overall, this style of learning provides discipline and confidence that is essential in the software engineering industry.
 
-Here's what I think: the difficult things will always be difficult.
+Conclusion: 
+In conclusion, my introduction to JavaScript has so far been surprisingly pleasant, especially in comparison to my experiences with Java, C++, and C#. The language’s versatility, relevance in the industry, and intuitiveness provides a lot of value to software developers. Also, the athletic software engineering approach, I believe, provides invaluable experience into software development. As I continue in ICS314, I hope to continue enjoying JavaScript while strengthening my skills in athletic software engineering.
 
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
