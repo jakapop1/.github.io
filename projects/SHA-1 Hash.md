@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-title: SHA-1 Hashing
+title: SHA-1 
 date: 2023
 published: true
 labels:
