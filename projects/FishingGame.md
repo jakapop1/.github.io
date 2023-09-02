@@ -11,10 +11,10 @@ labels:
 summary: "A text fishing game that I developed for ICS 211."
 ---
 
-<!-- Add a professional header with centered title and image -->
+<!-- Add a professional header with centered title -->
 <div style="text-align: center;">
-  <img src="img/4k1.jpeg" alt="Fishing Game" style="max-width: 400px; margin: 0 auto;" />
-  <h1 style="font-size: 28px; margin-top: 10px;">Fishing Game</h1>
+  <h1 style="font-size: 28px;">Fishing Game</h1>
+  <img src="img/4k1.jpeg" alt="Fishing Game" style="max-width: 400px; margin: 20px auto;" />
 </div>
 
 <!-- Brief project summary -->
@@ -41,3 +41,4 @@ Additionally, I learned the importance of effective collaboration and communicat
 In conclusion, the Fishing Game project not only expanded my programming skills but also provided insights into project management and teamwork. It served as an opportunity to apply theoretical knowledge to a practical, hands-on project, and I am proud of the final product we created.
 
 Source: [GitHub Repository](https://github.com/ICSatKCC/assignment-8-final-project-fishing-game-f22-a8-group-1/tree/DevJak)
+
