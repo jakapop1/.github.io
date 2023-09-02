@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/FISHBOX.jpg
+image: /img/FISHBOX.jpg
 title: "FishBox Binary Search Trees"
 date: 2015
 published: true
@@ -15,7 +15,7 @@ summary: "Developed a user-friendly menu-driven interface and improved skills in
 <!-- Add a professional header with centered title -->
 <div style="text-align: center;">
   <h1 style="font-size: 28px;">FishBox Binary Search Trees</h1>
-  <img src="img/FISHBOX.jpg" alt="FishBox Binary Search Trees" style="max-width: 400px; margin: 20px auto;" />
+  <img src="/img/FISHBOX.jpg" alt="FishBox Binary Search Trees" style="max-width: 100%;" />
 </div>
 
 <!-- Brief project summary -->
@@ -48,5 +48,6 @@ As a solo project, I assumed the responsibilities of designing, coding, and test
 - Created the IaTree class to manage the binary search tree functionality.
 - Implemented constructors for initializing the tree.
 - Designed the add method to add new I'a types and increment counts for existing types.
-- Developed the get method to retrieve I'a data by name, throwing exceptions if not found
+- Developed the get method to retrieve I'a data by name, throwing exceptions if not found.
 
+**GitHub Repository**: [FishBox Binary Search Trees Repository](https://github.com/ICSatKCC/a7-fishbox-binary-search-tree-f22-jakapop1/tree/A7Sumission)
