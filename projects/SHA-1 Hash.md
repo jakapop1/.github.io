@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/HASHING.jpg
 title: "SHA-1 Hashing"
 date: 2023
 published: true
