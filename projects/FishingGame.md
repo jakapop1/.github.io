@@ -11,7 +11,7 @@ labels:
 summary: "A text fishing game that I developed for ICS 211."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+
 
 
 ## Project Overview:
