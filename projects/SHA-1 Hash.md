@@ -12,6 +12,7 @@ labels:
 
 summary: "Implemented the SHA-1 hash algorithm in C++, processing a million hashes, and emphasizing data security and algorithm integrity for the portfolio project."
 ---
+<img src="/img/crypt.jpg" alt="SHA-1 Hashing" />
 
 ## Project Overview:
 Developed a SHA-1 hashing tool in C++ that reads input from a text file, computes SHA-1 hashes for the data, and returns the resulting hashes. This project focused on data security and the accurate implementation of cryptographic hashing.
