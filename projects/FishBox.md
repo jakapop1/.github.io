@@ -12,13 +12,13 @@ labels:
 summary: "Developed a user-friendly menu-driven interface and improved skills in tree structures, exception handling, and class design."
 ---
 
-<!-- Add a professional header with centered title -->
+
 <div style="text-align: center;">
   <h1 style="font-size: 28px;">FishBox Binary Search Trees</h1>
-  <img src="/img/FISHBOX.jpg" alt="FishBox Binary Search Trees" style="max-width: 100%;" />
+  <img src="/img/FISHBOX.jpg" alt="FishBox Binary Search Trees" style="max-width: 400px; margin: 20px auto;" />
 </div>
 
-<!-- Brief project summary -->
+
 Developed a user-friendly menu-driven interface and improved skills in tree structures, exception handling, and class design.
 
 ## Project Overview
@@ -51,3 +51,4 @@ As a solo project, I assumed the responsibilities of designing, coding, and test
 - Developed the get method to retrieve I'a data by name, throwing exceptions if not found.
 
 **GitHub Repository**: [FishBox Binary Search Trees Repository](https://github.com/ICSatKCC/a7-fishbox-binary-search-tree-f22-jakapop1/tree/A7Sumission)
+
