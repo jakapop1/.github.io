@@ -9,6 +9,7 @@ labels:
   - C++
   - Cryptology
   - Security
+summary: "Implemented the SHA-1 hashing algorithm in C++, processing a million hashes, to ensure data security and algorithm integrity for my portfolio project in ICS212"
 ---
 
 <!-- Add a professional header with centered title and image -->
