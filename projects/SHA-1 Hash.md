@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+image: img/crypt1.jpg
 title: SHA-1 
 date: 2023
 published: true
