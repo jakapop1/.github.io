@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: parrotfish.jpg
 title: "Fishing Game"
 date: 2022
 published: true
