@@ -12,10 +12,10 @@ labels:
 summary: "Developed a user-friendly menu-driven interface and improved skills in tree structures, exception handling, and class design."
 ---
 
-<!-- Add a professional header with centered title and image -->
+<!-- Add a professional header with centered title -->
 <div style="text-align: center;">
-  <img src="img/FISHBOX.jpg" alt="FishBox Binary Search Trees" style="max-width: 400px; margin: 0 auto;" />
-  <h1 style="font-size: 28px; margin-top: 10px;">FishBox Binary Search Trees</h1>
+  <h1 style="font-size: 28px;">FishBox Binary Search Trees</h1>
+  <img src="img/FISHBOX.jpg" alt="FishBox Binary Search Trees" style="max-width: 400px; margin: 20px auto;" />
 </div>
 
 <!-- Brief project summary -->
@@ -48,28 +48,5 @@ As a solo project, I assumed the responsibilities of designing, coding, and test
 - Created the IaTree class to manage the binary search tree functionality.
 - Implemented constructors for initializing the tree.
 - Designed the add method to add new I'a types and increment counts for existing types.
-- Developed the get method to retrieve I'a data by name, throwing exceptions if not found.
-- Implemented a preliminary structure for the remove method (to be completed last, as it's more complex).
-- Constructed the print method to display the FishBox in sorted order by name and their respective counts.
+- Developed the get method to retrieve I'a data by name, throwing exceptions if not found
 
-### Exception Handling
-
-- Incorporated exception handling within the IaNode and IaTree classes, ensuring robust error management for edge cases.
-
-This project challenged my skills in tree data structures, object-oriented design, and Java programming. It required meticulous attention to detail and thorough testing to ensure the proper functioning of the FishBox and adherence to BST principles.
-
-## Lessons Learned
-
-Through this project, I gained practical experience in several critical areas of software development:
-
-- **Binary Search Trees**: I deepened my understanding of BSTs, including their structure, insertion, retrieval, and traversal methods.
-
-- **Exception Handling**: I honed my ability to implement exception handling effectively, ensuring the reliability of the program in various scenarios.
-
-- **Class Design**: The project emphasized the importance of designing well-structured classes and methods for maintainable and extensible code.
-
-- **User Interaction**: I learned to create a user-friendly interface with menu-driven options, enhancing the user experience.
-
-Additionally, this solo project reinforced my problem-solving skills and the importance of thorough testing and debugging. It provided valuable insights into the intricacies of tree data structures and their practical applications.
-
-For more details, you can visit the [ICS 211: FishBox Github](https://github.com/ICSatKCC/a7-fishbox-binary-search-tree-f22-jakapop1/tree/A7Sumission).
