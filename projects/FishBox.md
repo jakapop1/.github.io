@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/FISHBOX.jpg
 title: "FishBox Binary Search Trees"
 date: 2015
 published: true
