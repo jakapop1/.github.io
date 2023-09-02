@@ -7,10 +7,23 @@
     "phone": "808-953-4541",
     "website": "https://jakapop1.github.io/",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
-    "location": { "address": "", "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": {
+      "postalCode": "96816",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "jakapop1", "url": "http://github.com/jakapop1" },
-      { "network": "linkedin", "username": "jakapop khongnawang", "url": "linkedin.com/in/jakapop-khongnawang-a4635928a" }
+      {
+        "network": "github",
+        "username": "jakapop1",
+        "url": "http://github.com/jakapop1"
+      },
+      {
+        "network": "linkedin",
+        "username": "jakapop khongnawang",
+        "url": "linkedin.com/in/jakapop-khongnawang-a4635928a"
+      }
     ]
   },
   "interests": [
@@ -23,72 +36,28 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "", "" ]
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows", "Git/GitHub", "", "" ]
+      "keywords": [ "MacOS", "Windows", "Git/GitHub" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science",
-      "studyType": "B.S.",
-      "startDate": "",
-      "endDate": "",
-      "courses": [
-      ]
+      "studyType": "B.S."
     }
   ],
   "work": [
     {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-      ] 
-    },
-    {
-      "company": "",
-      "position": "t",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
+      "position": "t"
     }
   ],
   "volunteer": [
     {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
+      "highlights": [ "" ]
     }
   ],
   "awards": [
@@ -97,12 +66,6 @@
       "date": "2013-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
     }
   ],
   "references": [
@@ -111,3 +74,4 @@
     }
   ]
 }
+
