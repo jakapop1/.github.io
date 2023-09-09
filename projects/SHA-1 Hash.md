@@ -4,7 +4,7 @@ type: project
 image: img/HASHING.jpg
 title: SHA-1 
 date: 2023
-published: true
+published: flase
 labels:
   - C++
   - Cryptology
