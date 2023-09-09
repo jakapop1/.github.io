@@ -11,7 +11,7 @@ labels:
 
 
 ## Introduction:
-<div class="bordered-section">
+
 
 In all fields, asking questions has been a valuable tool in getting the resources to the answers that you want while at the same time increasing the depth of your
 knowledge and understanding of the mentioned topic areas. From the software engineering perspective, asking the right questions in the right way is in the same way 
@@ -26,6 +26,14 @@ looking and analyzing two examples of a bad and good post.*
 </div>
 
 
+
+
+
+
+<img width="200px" 
+     class="rounded float-start pe-4" 
+     src="https://github.com/jakapop1/jakapop1.github.io/blob/main/img/smart-questions/brain.PNG?raw=true" >
+<div class="bordered-section">
 
 
 ## Importance of Smart Questions
@@ -57,6 +65,8 @@ not only are you more effectively communicating your problems in a respectful an
 they are sure to appreciate. As a result, this will lead you to your answer, and give the expert a nice little boost of karma along the way!
 
 </div>
+
+
 
 
 
