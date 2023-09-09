@@ -28,14 +28,6 @@ looking and analyzing two examples of a bad and good post.*
 
 
 
-
-
-<img width="200px" 
-     class="rounded float-start pe-4" 
-     src="https://github.com/jakapop1/jakapop1.github.io/blob/main/img/smart-questions/brain.PNG?raw=true" >
-<div class="bordered-section">
-
-
 ## Importance of Smart Questions
 <div class="bordered-section">
 
@@ -66,11 +58,6 @@ they are sure to appreciate. As a result, this will lead you to your answer, and
 
 </div>
 
-
-
-<img width="500px" 
-     class="rounded float-start pe-4" 
-     src="https://wallpaperaccess.com/full/479271.jpg" >
 
 
 
