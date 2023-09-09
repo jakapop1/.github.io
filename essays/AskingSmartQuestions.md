@@ -92,7 +92,7 @@ https://codepen.io/zizo-the-sans/pen/RwEKYxb I make steps like the course web de
 
 
   In looking under the javascript tag in stackoverflow for bad posting examples, I immediately found one that ticked almost every box of the checklist I’ve created 
-according to Eric guidelines. The post is titled: Why my code with bootstrap5 is not working? Upon clicking the post, I was met with a high sense of entitlement. 
+according to Eric's guidelines. Titled: Why my code with bootstrap5 is not working? Upon clicking the post, I was met with a high sense of entitlement. 
 While it may seem so due to the lack of grammatical correctness, the post simply links to a supposed screenshot (in which I would prefer not to click) and just a 
 statement phrased in a way that seems like the poster is submitting a complaint while expecting experts to solve the issue for them without providing much detail 
 or context to the issue of the problem. Bringing the attention back to the title, while the poster does mention the object that is presenting issues, there is no 
