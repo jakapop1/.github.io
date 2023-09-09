@@ -28,26 +28,41 @@ certain behaviors have become categorized and frowned upon. With this, the purpo
 
 ## Importance of Smart Questions
 
+*Erics Essay on Asking Questions*:
+Eric’s essay points out several areas to consider when asking questions on these types of sites and forums. 
 
-  Eric’s essay points out several areas to consider when asking questions on these types of sites and forums. One crucial aspect is the preparatory stage before 
+*Prepatory Stage*:
+One crucial aspect is the preparatory stage before 
 asking questions, a step that many newcomers often overlook. Before you ask questions, it’s very important to first do your own research i.e. looking through the 
 internet, reading over the manual (if there is any) to the point where you either encounter too many solutions or none at all. If you fail to do this, readers, 
 especially experts, will notice and might skip your post or even downvote it due to a lack of research. Conversely, if it’s clear that you’ve done your research,
-you’re more likely to receive upvotes. At which point, you then can begin to look for the right forum or site in which you want to ask your question. In this stage
+you’re more likely to receive upvotes. 
+
+*Choosing the Right Forum*:
+At which point, you then can begin to look for the right forum or site in which you want to ask your question. In this stage
 however, you MUST be careful of what forum or site you post to, make sure to look through the history of the postings, tags and whatever else that might give you 
 the indication that you are posting on the RIGHT forum. One thing to note that Eric mentioned is to not take the title of the forum at face value as the expected 
-postings may be entirely irrelevant to your question. Finally, now that you have exhausted your own resources in gathering research and data in relevance to your 
+postings may be entirely irrelevant to your question. 
+
+*Structuring Your Question*:
+Finally, now that you have exhausted your own resources in gathering research and data in relevance to your 
 question, and you have found the proper place to post, you now have to structure your question in a way in which people will not skip over. The main take of 
 structure for the question I gathered from Eric’s essay is to pick a proper title for the question and never to start off with any sense of urgency and any 
 entitlement. A good structure to always go by when asking on these forums, is  “object - deviation. The object part specifies what thing or group of things is 
 having a problem, and the “deviation” part describes the deviation from expected behavior” (Eric Raymond). In example “X.org 6.8.1 mouse cursor on Fooware MV1005 
-vid. chipset - is misshapen.” On the contrary a dumber version would be “HELP! Video doesn't work properly on my laptop!.” With that being said, try not to use all
+vid. chipset - is misshapen.” On the contrary a dumber version would be “HELP! Video doesn't work properly on my laptop!.”
+
+*Additional Tips*:
+With that being said, try not to use all
 caps as that implies that you are yelling and it is seen as rude. The body of your question now, should be clear and decisive in highlighting your problem and the 
 objective facts of things that are happening. For example, a question for a particular hardware issue, you should list objectively what the issue is, while listing 
 out the model numbers and the overall general information of your hardware like the ram you have, cpu, gpu etc while leading directly to the issues you’re running 
 into and the symptoms that your system is having to give the audience a clear idea of what may be happening as experts in the field will quickly pick up on what the issue is. Things that you should avoid is simply stating what you feel is happening or something obvious that does not give clues to the problem of your question
 like “PLEASE HELP MEE!!.” What would likely happen as a result would be someone linking the poster to a how to post page or simply telling the poster what’s wrong with their 
-postings rather than helping them out with the question. Lastly, Eric emphasized keeping an overall clean language. Clean as in grammatically sound and not using 
+postings rather than helping them out with the question. 
+
+*Language and Presentation*:
+Lastly, Eric emphasized keeping an overall clean language. Clean as in grammatically sound and not using 
 shortcut words like “u”. You don’t have to be formal but just seem coherent enough to be grammatically correct. In failing to do so, you might be met with a 
 backhanded comment or simply ignored. If English is not your first language, feel free to include it in the title of your post, in that way people will be a lot 
 more understanding. In structuring your questions the right way, people will be a lot more inclined to help you find the right answers. In following Eric’s guide,
