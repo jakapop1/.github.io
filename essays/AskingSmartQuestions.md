@@ -10,7 +10,7 @@ labels:
 ---
 
 
-<div class="bordered-section">
+
 
   In all fields, asking questions has been a valuable tool in getting the resources to the answers that you want while at the same time increasing the depth of your
 knowledge and understanding of the mentioned topic areas. From the software engineering perspective, asking the right questions in the right way is in the same way 
@@ -21,13 +21,13 @@ communities as they are now essential platforms for knowledge sharing. As a resu
 those sites and forums. At the same time however, anyone can have the same access as you do no matter the background. As a result, certain stigmas have risen and 
 certain behaviors have become categorized and frowned upon. With this, the purpose of my essay is to highlight the do’s and don’t mentioned in Eric’s paper while looking and analyzing two examples of a bad and good post.
 
-</div>
+
 
 
 
 
 ## Importance of Smart Questions
-<div class="bordered-section">
+
 
   Eric’s essay points out several areas to consider when asking questions on these types of sites and forums. One crucial aspect is the preparatory stage before 
 asking questions, a step that many newcomers often overlook. Before you ask questions, it’s very important to first do your own research i.e. looking through the 
@@ -54,14 +54,14 @@ more understanding. In structuring your questions the right way, people will be 
 not only are you more effectively communicating your problems in a respectful and coherent manner, but you are giving the field expert a nice little challenge that 
 they are sure to appreciate. As a result, this will lead you to your answer, and give the expert a nice little boost of karma along the way!
 
-</div>
+
 
 
 
 
 
 ## Case 1: The Not-So-Smart Way
-<div class="bordered-section">
+
 
 ``` 
 Why my code with bootstrap5 is not working? [closed]
@@ -86,14 +86,14 @@ with a -9 score, and several people providing links on how to ask. Another telli
 questions, they were met with an ineffective response thus wasting time and not having their problem solved. Such negative feedback could discourage new users from 
 participating in forums, especially if their initial experiences are met with hostility.
 
-</div>
+
 
 
 
 
 
 ## Case 2: The Smart Way
-<div class="bordered-section">
+
 
 ```
 How to calculate files array in nx dep-graph?
@@ -149,12 +149,12 @@ a solution from another post. As a result, they were likely able to get their an
 demonstrated the smart way of asking questions and thus was met with a much more positive response than case 1. As a result, the community provided the poster one 
 step closer towards the solution showing the effectiveness of	asking questions the smart way.
 
-</div>
+
 
 
 
 ## In Conclusion:
-<div class="bordered-section">
+
 
   The benefits of asking questions the smart way takes a lot more effect and due diligence but the results far outweigh the act of asking questions the not so smart
 way. The pitfalls of not adhering to the standards expected of people can result in a huge waste of time for the poster and at the same time readers. After a 
@@ -165,7 +165,6 @@ follow the guidelines, you will eventually be met with some sort of hostility (e
 
 
 
-</div>
 
 
 
