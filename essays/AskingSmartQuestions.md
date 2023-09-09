@@ -171,7 +171,7 @@ step closer towards the solution showing the effectiveness of	asking questions t
 ## In Conclusion:
 
 
-  The benefits of asking questions the smart way takes a lot more effect and due diligence but the results far outweigh the act of asking questions the not so smart
+  The benefits of asking questions the smart way takes a lot more effort and due diligence but the results far outweigh the act of asking questions the not so smart
 way. The pitfalls of not adhering to the standards expected of people can result in a huge waste of time for the poster and at the same time readers. After a 
 thorough analysis of the guidelines, I can summarize that you don’t have to necessarily refer back to the guidelines everytime you make a post fearing that you 
 will be criticized and ridiculed, you just to adhere to common sense and give the experts the respect they deserve in terms of showing your due diligence while at 
