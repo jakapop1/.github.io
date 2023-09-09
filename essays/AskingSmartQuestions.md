@@ -41,19 +41,18 @@ question, and you have found the proper place to post, you now have to structure
 structure for the question I gathered from Eric’s essay is to pick a proper title for the question and never to start off with any sense of urgency and any 
 entitlement. A good structure to always go by when asking on these forums, is  “object - deviation. The object part specifies what thing or group of things is 
 having a problem, and the “deviation” part describes the deviation from expected behavior” (Eric Raymond). In example “X.org 6.8.1 mouse cursor on Fooware MV1005 
-vid. chipset - is misshapen” On the contrary a dumber version would be “HELP! Video doesn't work properly on my laptop!”. With that being said, try not to use all
+vid. chipset - is misshapen.” On the contrary a dumber version would be “HELP! Video doesn't work properly on my laptop!.” With that being said, try not to use all
 caps as that implies that you are yelling and it is seen as rude. The body of your question now, should be clear and decisive in highlighting your problem and the 
 objective facts of things that are happening. For example, a question for a particular hardware issue, you should list objectively what the issue is, while listing 
 out the model numbers and the overall general information of your hardware like the ram you have, cpu, gpu etc while leading directly to the issues you’re running 
-into and the symptoms that your system is having to give the audience a clear idea of what may be happening as experts in the field will quickly pick up on what is
-happening. Things that you should avoid is simply stating what you feel is happening or something obvious that does not give clues to the problem of your question
-like “PLEASE HELP MEE!!”. What would likely happen as a result would be someone linking the poster to a how to post page or simply telling what’s wrong with their 
-postings rather than helping them out with the questions. Lastly, Eric emphasized keeping an overall clean language. Clean as in grammatically sound and not using 
+into and the symptoms that your system is having to give the audience a clear idea of what may be happening as experts in the field will quickly pick up on what the issue is. Things that you should avoid is simply stating what you feel is happening or something obvious that does not give clues to the problem of your question
+like “PLEASE HELP MEE!!.” What would likely happen as a result would be someone linking the poster to a how to post page or simply telling the poster what’s wrong with their 
+postings rather than helping them out with the question. Lastly, Eric emphasized keeping an overall clean language. Clean as in grammatically sound and not using 
 shortcut words like “u”. You don’t have to be formal but just seem coherent enough to be grammatically correct. In failing to do so, you might be met with a 
 backhanded comment or simply ignored. If English is not your first language, feel free to include it in the title of your post, in that way people will be a lot 
 more understanding. In structuring your questions the right way, people will be a lot more inclined to help you find the right answers. In following Eric’s guide,
 not only are you more effectively communicating your problems in a respectful and coherent manner, but you are giving the field expert a nice little challenge that 
-they are sure to appreciate. As a result, this will lead you to your answer, but give the expert a nice little karma boost along the way!
+they are sure to appreciate. As a result, this will lead you to your answer, and give the expert a nice little boost of karma along the way!
 
 </div>
 
@@ -63,12 +62,12 @@ they are sure to appreciate. As a result, this will lead you to your answer, but
 <div class="bordered-section">
   
 In looking under the javascript tag in stackoverflow for bad posting examples, I immediately found one that ticked almost every box of the checklist I’ve created 
-according to Eric guidelines. The post is titled: Why my code with bootstrap5 is not working? Upon clicking the post, I was met with a high sense of entitlement. 
+according to Eric guidelines. The post is titled: *Why my code with bootstrap5 is not working?* Upon clicking the post, I was met with a high sense of entitlement. 
 While it may seem so due to the lack of grammatical correctness, the post simply links to a supposed screenshot (in which I would prefer not to click) and just a 
 statement phrased in a way that seems like the poster is submitting a complaint while expecting experts to solve the issue for them without providing much detail 
 or context to the issue of the problem. Bringing the attention back to the title, while the poster does mention the object that is presenting issues, there is no 
 clear deviation of the problem besides it just simply not working. Now asides from my own observations, the community has voiced their own opinions on the post 
-with a -9 score, and several people providing links on how to ask. Telling the user the post needs improvement. In summary, by the poster not properly asking 
+with a -9 score, and several people providing links on how to ask. Another telling the user the post needs improvement. In summary, by the poster not properly asking 
 questions, they were met with an ineffective response thus wasting time and not having their problem solved. Such negative feedback could discourage new users from 
 participating in forums, especially if their initial experiences are met with hostility.
 
@@ -79,18 +78,17 @@ participating in forums, especially if their initial experiences are met with ho
 <div class="bordered-section">
 
 Similarly to case 1, I found this question under the javascript tag. To me finding good questions was generally a bit more difficult, however this seemed to stand
-out among the others as the general question was titled in a clear and concise manner that utilized object and deviation. Titled: How to calculate files array in 
-nx dep-graph, the object of the question is clearly stated with the deviation being the point of the question structured into a how to question with the object of
+out among the others as the general question was titled in a clear and concise manner that utilized object and deviation. Titled: *How to calculate files array in 
+nx dep-graph*, the object of the question is clearly stated with the deviation being the point of the question structured into a how to question with the object of
 the deviation also clearly stated. Clicking on the post, the poster stated the version of the software being used while also making it clear the type of file being
 created by the particular build they are using. The poster makes it clear that they are themselves acquainted with the software stating that the software’s current
 versions no longer produce a certain type of file. An example code is provided without having to click on any links while at the same time, the steps of the poster 
-are listed in a clear way. The question is then restated noting that with the new software update, things have changed so that the user can no longer do the 
+are clearly listed along the way. The question is then restated noting that with the new software update, things have changed so that the user can no longer do the 
 function that they used to be able to do. “In the latest version this has changed. So my question is if it is possible to generate the files content manually?” The 
 question was asked in a way that the poster is willing to partake in the process of getting the answer rather than simply being given the solution. This poster had
-clear grammatical correctness while at the same time provided the readers with more than adequate information so that if an expert in the field were to see this,
-they would be a lot more willing to lend help. As a result, the post has +4 points for the poster having clearly done his/her research. The poster also received an 
+clear grammatical correctness while at the same time provided the readers with more than adequate information so that if an expert in the field were to see this, they would be able to better assess the problem and be a lot more willing to lend help. As a result, the post has +4 points for the poster having clearly done his/her research. The poster also received an 
 answer agreement with the topic of the question. The respondent mentioned that they too had been waiting for an update to address the issue and provided a link to
-a solution from another post. As a result, they were likely able to get their answer a lot faster versus them not asking the question at all. This post 
+a solution from another post. As a result, they were likely able to get their answer a lot faster versus them not asking the question at all and . This post 
 demonstrated the smart way of asking questions and thus was met with a much more positive response than case 1. As a result, the community provided the poster one 
 step closer towards the solution showing the effectiveness of	asking questions the smart way.
 
@@ -105,7 +103,7 @@ way. The pitfalls of not adhering to the standards expected of people can result
 thorough analysis of the guidelines, I can summarize that you don’t have to necessarily refer back to the guidelines everytime you make a post fearing that you 
 will be criticized and ridiculed, you just to adhere to common sense and give the experts the respect they deserve in terms of showing your due diligence while at 
 the same time presenting yourself in a semi professional manner (at least grammatically). After going through various posts, I can confidently say that even if you 
-follow the guidelines, you will always eventually be met with some sort of hostility (even though they most likely don’t mean it in the way you take it) and as a result not to take things too personally. For readers contemplating posting on similar forums or sites, I highly recommend reviewing Eric Raymond’s essay. It offers invaluable insights that can save you time and improve your interactions.
+follow the guidelines, you will eventually be met with some sort of hostility (even though they most likely don’t mean it in the way you take it). Thus a main takeaway from this would be not to take things being said too personally. For readers contemplating posting on similar forums or sites, I highly recommend reviewing Eric Raymond’s essay. It offers invaluable insights that can save you time and improve your interactions.
 
 </div>
 
