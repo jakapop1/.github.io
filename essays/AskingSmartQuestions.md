@@ -26,6 +26,8 @@ looking and analyzing two examples of a bad and good post.*
 </div>
 
 
+
+
 ## Importance of Smart Questions
 <div class="bordered-section">
 
@@ -57,6 +59,8 @@ they are sure to appreciate. As a result, this will lead you to your answer, and
 </div>
 
 
+
+
 ## Case 1: The Not-So-Smart Way
 
 <div class="bordered-section">
@@ -72,6 +76,8 @@ questions, they were met with an ineffective response thus wasting time and not 
 participating in forums, especially if their initial experiences are met with hostility.
 
 </div>
+
+
 
 ## Case 2: The Smart Way
 
@@ -94,6 +100,8 @@ step closer towards the solution showing the effectiveness of	asking questions t
 
 </div>
 
+
+
 ## Conclusion:
 
 <div class="bordered-section">
@@ -106,6 +114,8 @@ the same time presenting yourself in a semi professional manner (at least gramma
 follow the guidelines, you will eventually be met with some sort of hostility (even though they most likely don’t mean it in the way you take it). Thus a main takeaway from this would be not to take things being said too personally. For readers contemplating posting on similar forums or sites, I highly recommend reviewing Eric Raymond’s essay. It offers invaluable insights that can save you time and improve your interactions.
 
 </div>
+
+
 
 
 [How to ask Questions By Eric Raymond](http://www.catb.org/esr/faqs/smart-questions.html)
