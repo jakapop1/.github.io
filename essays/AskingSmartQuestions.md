@@ -111,6 +111,8 @@ will be criticized and ridiculed, you just to adhere to common sense and give th
 the same time presenting yourself in a semi professional manner (at least grammatically). After going through various posts, I can confidently say that even if you 
 follow the guidelines, you will eventually be met with some sort of hostility (even though they most likely don’t mean it in the way you take it). Thus a main takeaway from this would be not to take things being said too personally. For readers contemplating posting on similar forums or sites, I highly recommend reviewing Eric Raymond’s essay. It offers invaluable insights that can save you time and improve your interactions.
 
+
+
 </div>
 
 
