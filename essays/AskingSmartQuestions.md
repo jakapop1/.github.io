@@ -11,7 +11,7 @@ labels:
 
 
 ## Introduction:
-
+<div class="bordered-section">
 
 In all fields, asking questions has been a valuable tool in getting the resources to the answers that you want while at the same time increasing the depth of your
 knowledge and understanding of the mentioned topic areas. From the software engineering perspective, asking the right questions in the right way is in the same way 
@@ -63,7 +63,6 @@ they are sure to appreciate. As a result, this will lead you to your answer, and
 
 
 ## Case 1: The Not-So-Smart Way
-
 <div class="bordered-section">
   
 In looking under the javascript tag in stackoverflow for bad posting examples, I immediately found one that ticked almost every box of the checklist I’ve created 
@@ -81,7 +80,6 @@ participating in forums, especially if their initial experiences are met with ho
 
 
 ## Case 2: The Smart Way
-
 <div class="bordered-section">
 
 Similarly to case 1, I found this question under the javascript tag. To me finding good questions was generally a bit more difficult, however this seemed to stand
@@ -104,7 +102,6 @@ step closer towards the solution showing the effectiveness of	asking questions t
 
 
 ## Conclusion:
-
 <div class="bordered-section">
 
 The benefits of asking questions the smart way takes a lot more effect and due diligence but the results far outweigh the act of asking questions the not so smart
@@ -115,6 +112,7 @@ the same time presenting yourself in a semi professional manner (at least gramma
 follow the guidelines, you will eventually be met with some sort of hostility (even though they most likely don’t mean it in the way you take it). Thus a main takeaway from this would be not to take things being said too personally. For readers contemplating posting on similar forums or sites, I highly recommend reviewing Eric Raymond’s essay. It offers invaluable insights that can save you time and improve your interactions.
 
 </div>
+
 
 
 
