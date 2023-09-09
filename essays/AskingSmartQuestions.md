@@ -9,8 +9,9 @@ labels:
   - Computer Science
 ---
 
-<div class="bordered-section">
+
 ## Introduction:
+<div class="bordered-section">
 
 In all fields, asking questions has been a valuable tool in getting the resources to the answers that you want while at the same time increasing the depth of your
 knowledge and understanding of the mentioned topic areas. From the software engineering perspective, asking the right questions in the right way is in the same way 
@@ -24,8 +25,9 @@ looking and analyzing two examples of a bad and good post.*
 
 </div>
 
-<div class="bordered-section">
+
 ## Importance of Smart Questions
+<div class="bordered-section">
 
 Eric’s essay points out several areas to consider when asking questions on these types of sites and forums. One crucial aspect is the preparatory stage before 
 asking questions, a step that many newcomers often overlook. Before you ask questions, it’s very important to first do your own research i.e. looking through the 
@@ -55,9 +57,11 @@ they are sure to appreciate. As a result, this will lead you to your answer, but
 
 </div>
 
-<div class="bordered-section">
+
 ## Case 1: The Not-So-Smart Way
 
+<div class="bordered-section">
+  
 In looking under the javascript tag in stackoverflow for bad posting examples, I immediately found one that ticked almost every box of the checklist I’ve created 
 according to Eric guidelines. The post is titled: Why my code with bootstrap5 is not working? Upon clicking the post, I was met with a high sense of entitlement. 
 While it may seem so due to the lack of grammatical correctness, the post simply links to a supposed screenshot (in which I would prefer not to click) and just a 
@@ -70,8 +74,10 @@ participating in forums, especially if their initial experiences are met with ho
 
 </div>
 
-<div class="bordered-section">
 ## Case 2: The Smart Way
+
+<div class="bordered-section">
+
 Similarly to case 1, I found this question under the javascript tag. To me finding good questions was generally a bit more difficult, however this seemed to stand
 out among the others as the general question was titled in a clear and concise manner that utilized object and deviation. Titled: How to calculate files array in 
 nx dep-graph, the object of the question is clearly stated with the deviation being the point of the question structured into a how to question with the object of
@@ -90,8 +96,10 @@ step closer towards the solution showing the effectiveness of	asking questions t
 
 </div>
 
-<div class="bordered-section">
 ## Conclusion:
+
+<div class="bordered-section">
+
 The benefits of asking questions the smart way takes a lot more effect and due diligence but the results far outweigh the act of asking questions the not so smart
 way. The pitfalls of not adhering to the standards expected of people can result in a huge waste of time for the poster and at the same time readers. After a 
 thorough analysis of the guidelines, I can summarize that you don’t have to necessarily refer back to the guidelines everytime you make a post fearing that you 
