@@ -20,8 +20,7 @@ learn to ask them in a smart and meaningful way. At the current standing of the 
 StackOverFlow, we now have a means of direct interaction with field experts and professionals from all over the world. This is through the evolution of online 
 communities as they are now essential platforms for knowledge sharing. As a result, certain etiquette and standards are expected and upkept by the daily goers on 
 those sites and forums. At the same time however, anyone can have the same access as you do no matter the background. As a result, certain stigmas have risen and 
-certain behaviors have become categorized and frowned upon. *With this, the purpose of my essay is to highlight the do’s and don’t mentioned in Eric’s paper while 
-looking and analyzing two examples of a bad and good post.*
+certain behaviors have become categorized and frowned upon. With this, the purpose of my essay is to highlight the do’s and don’t mentioned in Eric’s paper while looking and analyzing two examples of a bad and good post.
 
 </div>
 
@@ -66,7 +65,7 @@ they are sure to appreciate. As a result, this will lead you to your answer, and
 <div class="bordered-section">
   
 In looking under the javascript tag in stackoverflow for bad posting examples, I immediately found one that ticked almost every box of the checklist I’ve created 
-according to Eric guidelines. The post is titled: *Why my code with bootstrap5 is not working?* Upon clicking the post, I was met with a high sense of entitlement. 
+according to Eric guidelines. The post is titled: Why my code with bootstrap5 is not working? Upon clicking the post, I was met with a high sense of entitlement. 
 While it may seem so due to the lack of grammatical correctness, the post simply links to a supposed screenshot (in which I would prefer not to click) and just a 
 statement phrased in a way that seems like the poster is submitting a complaint while expecting experts to solve the issue for them without providing much detail 
 or context to the issue of the problem. Bringing the attention back to the title, while the poster does mention the object that is presenting issues, there is no 
@@ -83,8 +82,8 @@ participating in forums, especially if their initial experiences are met with ho
 <div class="bordered-section">
 
 Similarly to case 1, I found this question under the javascript tag. To me finding good questions was generally a bit more difficult, however this seemed to stand
-out among the others as the general question was titled in a clear and concise manner that utilized object and deviation. Titled: *How to calculate files array in 
-nx dep-graph*, the object of the question is clearly stated with the deviation being the point of the question structured into a how to question with the object of
+out among the others as the general question was titled in a clear and concise manner that utilized object and deviation. Titled: How to calculate files array in 
+nx dep-graph, the object of the question is clearly stated with the deviation being the point of the question structured into a how to question with the object of
 the deviation also clearly stated. Clicking on the post, the poster stated the version of the software being used while also making it clear the type of file being
 created by the particular build they are using. The poster makes it clear that they are themselves acquainted with the software stating that the software’s current
 versions no longer produce a certain type of file. An example code is provided without having to click on any links while at the same time, the steps of the poster 
