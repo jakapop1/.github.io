@@ -61,9 +61,6 @@ Class Structure and Hierarchy:
 ## Game Logic
 - Fishingtournament.java
 
-## Code Snippets
-Fish Characteristics
-``` ```
 
 ## Core Game Loop
 Base structure of the fishing game.
@@ -216,11 +213,11 @@ public class Anae extends Ama_ama {
 
 ## Lessons Learned
 
-Through this project, I gained valuable experience in object-oriented design and Java programming. I learned how to design and implement a hierarchy of classes that adhered to specific interfaces. This project also improved my problem-solving skills, as I had to tackle various challenges related to fish behavior and game mechanics.
+Through this project, I gained a lot of valuable experience in object-oriented design through Java programming. I learned how to design and implement a hierarchy of classes that adhered to specific interfaces. This project also improved my problem-solving skills, as I had to tackle various challenges related to fish behavior and game mechanics.
 
 Additionally, I learned the importance of effective collaboration and communication within a development team. We worked together to ensure that our individual contributions integrated smoothly, resulting in a cohesive and functional game.
 
-In conclusion, the Fishing Game project not only expanded my programming skills but also provided insights into project management and teamwork. It served as an opportunity to apply theoretical knowledge to a practical, hands-on project, and I am proud of the final product we created.
+In conclusion it served as an opportunity to apply theoretical knowledge to a practical, hands-on project, and I am proud of the final product we created!
 
-Source: [GitHub Repository](https://github.com/ICSatKCC/assignment-8-final-project-fishing-game-f22-a8-group-1/tree/DevJak)
+Source: Github Repository unavailable to public
 
