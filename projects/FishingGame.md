@@ -94,7 +94,7 @@ Base structure of the fishing game.
             default :
                System.out.println("Not a valid entry, please enter 1 or 0!");
                break;
-                      ......
+       ......
          }
       
       }
@@ -181,10 +181,34 @@ public static I_a lawai_a(ArrayList<FishableI_a> fishPond) {
 
 ## Class Hierarchy Visual
 
-<img width="200px" 
+<img width="600px" 
      class="rounded float-start pe-4" 
-     src="../img/difficulty/degree_difficulty.jpg" >
+     src="https://github.com/jakapop1/jakapop1.github.io/blob/main/img/classHier.PNG?raw=true" >
 
+A code snippet for one of the classes I had to implement extending another class.
+```
+public class Anae extends Ama_ama {
+
+   /** constant maximum length for this Ia. */
+   private static final double anaeMaxLength = 27.0;
+
+   /** constant minimum length for this Ia. */
+   private static final double anaeMinLength = 12.0;
+
+
+   /**
+   * Constructor for making Anae with random length.
+   * This is the fourth phase of the family fish.
+   * @throws FishSizeException if length is less than minLength
+   */
+   public Anae() {
+      super("'Anae", anaeMaxLength, anaeMinLength, 
+         anaeMinLength, (anaeMinLength * 2), dietItems, "silver", "silver", "none");   
+
+      this.initLength();
+   }
+    ......
+```
 
 
 
