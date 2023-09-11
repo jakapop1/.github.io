@@ -219,5 +219,5 @@ Additionally, I learned the importance of effective collaboration and communicat
 
 In conclusion it served as an opportunity to apply theoretical knowledge to a practical, hands-on project, and I am proud of the final product we created!
 
-Source: Github Repository unavailable to public
+Source: Github Repository unavailable to public.
 
