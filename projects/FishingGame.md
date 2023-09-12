@@ -18,11 +18,16 @@ summary: "A text fishing game that I developed for ICS 211."
 </div>
 
 <!-- Brief project summary -->
-A text-based fishing game developed for ICS 211.
+A text-based fishing game developed for ICS 211 with the goal of working in a collaborative environment.
+
+## Introduction
+
+Fishing, a fun past time for many while even a career for others is undoubtedly an event in which has been a part of history for almost as long as humans have existed. As a result, knowing rules and regulations is a must as in most places you must conform to a certain standard on the do's and dont's while fishing. In this project, we aim to do just that through the Java command console as we implement the different types of fishes commonly found in Hawaii and the rules that apply when catching them. I invite you to peek at what we've created as one of our fun Java project for our ICS 211 class!
+
 
 ## Project Overview
 
-The Fishing Game project is a collaborative effort with my partner. The objective was to create an interactive two-player fishing tournament game. The game involved the development of a virtual ecosystem where players would take turns catching, collecting, and managing fish through the console. The project aimed to apply object-oriented programming principles and demonstrate proficiency in Java.
+The Fishing Game project is a collaborative project with me and my assigned partner. The objective of this project was to create an interactive two-player fishing tournament game. Some of the requirements for this project involved the development of a virtual ecosystem where players would take turns catching, collecting, and managing fish through the console. The project aimed to apply object-oriented programming principles in order to demonstrate our proficiency in Java that we had learned throughout the semester.
 
 ## Goal of the Project
 
