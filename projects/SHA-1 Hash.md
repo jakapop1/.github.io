@@ -333,3 +333,4 @@ This project provided valuable insights into cryptography, algorithm implementat
 
 The SHA-1 hashing tool in C++ represents a significant addition to my portfolio, showcasing my ability to create secure and efficient tools for data processing and cryptography.
 
+[FIPS180-1-SecureHashStandard](https://github.com/jakapop1/jakapop1.github.io/blob/5cda4fe837dd7a5dd4387843918af05bc7e26ca3/img/FIPS180-1-SecureHashStandard-3.pdf)
