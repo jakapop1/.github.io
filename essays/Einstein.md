@@ -10,13 +10,17 @@ labels:
   - Biography
 ---
 
-The History of Albert Einstein
-Regarded as the man of the century, Albert Einstein had achieved what had been thought
+## Introduction 
+
+&nbsp;Regarded as the man of the century, Albert Einstein had achieved what had been thought
 impossible and shaped the way in which we see the world today. In the early years of his life,
 once he had started school young Einstein grew to excel especially in mathematics and science.
 Albert had then continued his education and from that point on had never stopped learning. With
 emphasis on his early upbringing in mathematics, he had then gone on to make many amazing
 discoveries which paved the way for the foundation of society as we see it today.
+
+
+
 When Einstein was a child his early development had not been particularly exceptional as
 one might expect of someone regarded as such a prodigy. Albert Einstein was born on March
 14th, 1879, in Ulm, Germany (Duckster). Albert had had a slow development as he had not
@@ -30,7 +34,7 @@ school, he had developed a rebellious side as he often clashed with his teachers
 authority (Duckster). As Einstein continued the course of his young education, he had grown to
 excel at math and generally performed at the top of his classes for those subject areas
 (Duckster).
-Khongnawang 2
+
 While Einstein was not studying mathematics, he often enjoyed music as a past-time. As
 a child, young Einstein was not particularly normal as he preferred to play by himself rather than
 with his peers (Duckster). As a result of his solitude, Einstein was left with much more time to
@@ -56,7 +60,7 @@ recommendations for a job at a university (StarChild). In the year 1901, he took
 school teacher and married Mileva Maritsch and had two sons (StarChild). Einstein had not
 been particularly close to his first sons as his son Hans Albert had stated “Probably the only
 project he ever gave up on was me” (Museum). In the year of 1914, Einstein had separated from
-Khongnawang 3
+
 Mileva. Einstein had unfortunately grown ill in the year of 1917 where his cousin Elsa Lowenthal
 had nursed him back to health (Museum). As a result, he had fallen in love with the couple
 married in the year 1919 (Museum). Einstein then worked for a patent office where he was then
@@ -82,7 +86,7 @@ theories together and linked gravitation, acceleration, and the four dimensional
 (StarChild). With his profound discovery, Einstein was able to account for the variations in the
 orbital motions of the planets (StarChild). He had also predicted that starlight in the proximity of
 a massive object could bend which had been proven and confirmed in the year 1919 during a
-Khongnawang 4
+
 solar eclipse (StarChild). This theory helped us in our understanding of how the large structure
 of the universe is set up (English). Einstein had discovered that the laws of physics are constant
 for non accelerating observers and that light will be constant no matter how fast the observer
@@ -108,7 +112,7 @@ certain Germans due to the fact that he was Jewish (StarChild). In 1930, Einstei
 to the United States in which had led him to a post with the Institute for Advanced Study near
 Princeton University in which Einstein had gladly accepted, especially with his situation in
 Germany (StarChild). By 1935 Einstein was granted permanent residency in the United States
-Khongnawang 5
+
 and became a citizen in 1940 (StarChild). Einstein never went back to Germany. Einstein had
 spent his later years dwelling in solitude enjoying music and relaxation (Nobel). On the year
 1949, Einstein was in failing health where he later passed away in April 1955 in Princeton
@@ -134,7 +138,7 @@ inventions such as televisions which has spread to every corner of the globe tod
 Einstein, regarded as man of the century, changed the world in countless ways as his
 theories continue to shape our understanding of physics and the world around us. Through his
 struggles came his successes as he had dedicated his entire life to his studies. Einstein had a far
-Khongnawang 6
+
 from easy path as in the midst of brewing war, Einstein had traversed adversities after adversities
 in order to do what he loved and that was to gather more knowledge for human kind. His work on
 relativity had laid the scientific stepping stone into the future that we all live in today. Through it
@@ -148,6 +152,6 @@ this one man.
 
 ## Resources
 
-[Essay PDF](http://www.catb.org/esr/faqs/smart-questions.html)
+[Essay PDF](https://github.com/jakapop1/jakapop1.github.io/blob/b9ee8ffefab96d13da04edb86f1eb2ab01827cdf/essays/Albert%20Einstein.pdf)
 
 
