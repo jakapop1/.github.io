@@ -8,8 +8,7 @@ published: true
 labels:
   - C++
   - Sorting
-summary: "Developed a C++ program to sort text files containing English-Japanese word pairs separated by tabs. The sorting prioritizes English words, with considerations for specific character exclusions and case insensitivity.
-"
+summary: "Developed a C++ program to sort text files containing English-Japanese word pairs separated by tabs. The sorting prioritizes English words, with considerations for specific character exclusions and case insensitivity."
 ---
 
 
