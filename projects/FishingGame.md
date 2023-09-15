@@ -14,7 +14,7 @@ summary: "A text fishing game that I developed for ICS 211."
 <!-- Add a professional header with centered title -->
 <div style="text-align: center;">
   <h1 style="font-size: 28px;"></h1>
-  <img src="/img/4k1.jpeg" alt="Fishing Game" style="max-width: 400px; margin: 20px auto;" />  <!-- Updated image path -->
+  <img src="/img/fishing.jpg" alt="Fishing Game" style="max-width: 400px; margin: 20px auto;" />  <!-- Updated image path -->
 </div>
 
 <!-- Brief project summary -->
