@@ -13,7 +13,7 @@ summary: "Developed a C++ program to sort text files containing English-Japanese
 
 <div style="text-align: center;">
   <h1 style="font-size: 28px;"></h1>
-  <img src="/Japanese_File_Sort/tree.jpg" alt="Japan" style="max-width: 400px; margin: 20px auto;" />
+  <img src="/Japanese_File_Sort/tree.jpg" alt="Japan" style="max-width: 600px; margin: 20px auto;" />
 </div>
 
 
