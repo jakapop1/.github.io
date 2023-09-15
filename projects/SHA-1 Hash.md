@@ -14,7 +14,7 @@ summary: "Developed a SHA-1 hashing tool in C++ capable of computing hash values
 
 <!-- Add a professional header with centered title and image -->
 <div style="text-align: center;">
-  <img src="/img/HASHING.jpg" alt="SHA-1 Hashing" style="max-width: 400px; margin: 0 auto;" />
+  <img src="/img/door.png" alt="SHA-1 Hashing" style="max-width: 400px; margin: 0 auto;" />
   <h1 style="font-size: 28px; margin-top: 10px;">SHA-1</h1>
 </div>
 
