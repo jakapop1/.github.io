@@ -27,7 +27,7 @@ Fishing, a fun past time for many while even a career for others is undoubtedly 
 
 ## Project Overview
 
-The Fishing Game project is a collaborative project with me and my assigned partner. The objective of this project was to create an interactive two-player fishing tournament game. Some of the requirements for this project involved the development of a virtual ecosystem where players would take turns catching, collecting, and managing fish through the console. The project aimed to apply object-oriented programming principles in order to demonstrate our proficiency in Java that we had learned throughout the semester.
+The Fishing Game project is a collaborative project with me and my assigned partners. The objective of this project was to create an interactive two-player fishing tournament game. Some of the requirements for this project involved the development of a virtual ecosystem where players would take turns catching, collecting, and managing fish through the console. The project aimed to apply object-oriented programming principles in order to demonstrate our proficiency in Java that we had learned throughout the semester.
 
 ## Goal of the Project
 
@@ -40,9 +40,9 @@ In this project, my primary responsibility was to implement various fish species
 
 Another of my responsibility was in ensuring that the implemented fish classes integrated seamlessly with the existing codebase. This involved modifying the inheritance hierarchy, updating class methods, and testing the classes to verify their functionality.
 
-At the same time, my partner is doing the same but with different sets of classes representing other families of fishes.
+At the same time, my partners are doing the same but with different sets of classes representing other families of fishes.
 
-Last, my partner and I put the classes together to then structure the core gameplay of the Fishing Tournament. This included implementing the game's main loop, player turns, fish interactions, and the determination of the game's outcome while allowing players to make decisions on catching and managing their fish.
+Lastly, my partners and I put the classes together to then structure the core gameplay of the Fishing Tournament. This included implementing the game's main loop, player turns, fish interactions, and the determination of the game's outcome while allowing players to make decisions on catching and managing their fish.
 
 ## Tools and Technologies
 - Programming Language: Java
@@ -226,3 +226,15 @@ In conclusion it served as an opportunity to apply theoretical knowledge to a pr
 
 Source: Github Repository unavailable to public.
 
+
+
+
+## Resources
+
+[readme](https://github.com/jakapop1/jakapop1.github.io/blob/ae553bcbb5ff7d099db80edef2e9e1faf17228cf/Fishing%20Folder/README.md)
+
+
+[fishingTournament.java](https://github.com/jakapop1/jakapop1.github.io/blob/ae553bcbb5ff7d099db80edef2e9e1faf17228cf/Fishing%20Folder/FishingTournament.java)
+
+
+[cloned repository codebase](https://github.com/jakapop1/jakapop1.github.io/tree/ae553bcbb5ff7d099db80edef2e9e1faf17228cf/Fishing%20Folder)
