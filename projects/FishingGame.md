@@ -222,9 +222,8 @@ Through this project, I gained a lot of valuable experience in object-oriented d
 
 Additionally, I learned the importance of effective collaboration and communication within a development team. We worked together to ensure that our individual contributions integrated smoothly, resulting in a cohesive and functional game.
 
-In conclusion it served as an opportunity to apply theoretical knowledge to a practical, hands-on project, and I am proud of the final product we created!
 
-Source: Github Repository unavailable to public.
+
 
 
 
