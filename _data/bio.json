@@ -6,7 +6,7 @@
     "email": "jakapop@hawaii.edu",
     "phone": "808-953-4541",
     "website": "https://jakapop1.github.io/",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025. After graduation, I hope to work as a software engineer!",
     "location": {
       "postalCode": "96816",
       "city": "Honolulu",
@@ -54,7 +54,7 @@
     {
       "position": "Full-Time Student"
     }
-  ],
+  ]
   "volunteer": [
   {
     "organization": "Ala-Moana Beach Clean-Ups",
