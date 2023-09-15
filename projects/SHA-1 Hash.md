@@ -129,6 +129,8 @@ The SHA-1 hashing tool in C++ represents a significant addition to my portfolio,
 
 
 
+## Resources
+
 [FIPS180-1-SecureHashStandard](https://github.com/jakapop1/jakapop1.github.io/blob/5cda4fe837dd7a5dd4387843918af05bc7e26ca3/img/FIPS180-1-SecureHashStandard-3.pdf)
 
 [a.txt](https://github.com/jakapop1/jakapop1.github.io/blob/02dc49b2ea3217db129809c8980585ccb45bdb16/img/a.txt)
