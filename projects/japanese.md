@@ -95,6 +95,8 @@ This project reinforced my understanding of file processing in C++, especially u
 
 ## Resources:
 
-[MakeFile]()
+[TextFile](https://github.com/jakapop1/jakapop1.github.io/blob/cdc992e319c529f36fab1987703cd34159df1205/Japanese_File_Sort/a26_data.txt)
 
-[Code]()
+[MakeFile](https://github.com/jakapop1/jakapop1.github.io/blob/cdc992e319c529f36fab1987703cd34159df1205/Japanese_File_Sort/makefile.txt)
+
+[Code](https://github.com/jakapop1/jakapop1.github.io/blob/cdc992e319c529f36fab1987703cd34159df1205/Japanese_File_Sort/a26_jakapop.cpp)
