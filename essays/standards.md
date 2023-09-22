@@ -26,4 +26,9 @@ From my experience across various programming languages, I've come to realize th
 ## Conclusion
 In conclusion, coding standards may be underappreciated by some, but definitely deserve a second look especially for those into software development. They ensure that the code is not just functional, but readable, maintainable, and efficient. Not only will these standards teach you about the language but also prepare you for the professional world of development!
 
+<div style="text-align: center;">
+  <h1 style="font-size: 28px;"></h1>
+  <img src="/Japanese_File_Sort/tree.jpg" alt="Japan" style="max-width: 600px; margin: 20px auto;" />
+</div>
+
 
