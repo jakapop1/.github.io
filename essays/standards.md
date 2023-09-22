@@ -11,6 +11,11 @@ labels:
   - Structure
   - Education
 ---
+<div style="text-align: center;">
+  <h1 style="font-size: 28px;"></h1>
+  <img src="https://github.com/jakapop1/jakapop1.github.io/blob/7887740fa8edcba99f646a9a98faf5b18e654abe/img/essayPictures/structure.jpg" />
+</div>
+
 ## Introduction
 When first starting on my coding journey, I was overwhelmed by all the ins and outs of programming. Java, my initial language of choice, seemed to be a maze of syntax that I struggled to navigate. The challenge, in retrospect, wasn’t just about the memorization of syntax; it was more so about understanding the underlying structure and logic of the code. Overtime, I had realized (after learning a few more languages) that every programming language has a structure, and by learning the structure, learning the syntaxes becomes a lot more intuitive. As a result, I now understand and appreciate the importance of coding standards. 
 
@@ -26,9 +31,11 @@ From my experience across various programming languages, I've come to realize th
 ## Conclusion
 In conclusion, coding standards may be underappreciated by some, but definitely deserve a second look especially for those into software development. They ensure that the code is not just functional, but readable, maintainable, and efficient. Not only will these standards teach you about the language but also prepare you for the professional world of development!
 
-<div style="text-align: center;">
-  <h1 style="font-size: 28px;"></h1>
-  <img src="/Japanese_File_Sort/tree.jpg" alt="Japan" style="max-width: 600px; margin: 20px auto;" />
-</div>
+
+
+
+
+## Resources:
+[Photo Credit](https://dev.to/fahimulhaq/top-8-data-structures-for-coding-interviews-and-practice-interview-questions-2pb)
 
 
