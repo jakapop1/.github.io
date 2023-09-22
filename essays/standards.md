@@ -13,7 +13,7 @@ labels:
 ---
 <div style="text-align: center;">
   <h1 style="font-size: 28px;"></h1>
-  <img src="https://github.com/jakapop1/jakapop1.github.io/blob/7887740fa8edcba99f646a9a98faf5b18e654abe/img/essayPictures/structure.jpg" />
+  <img src="/img/essayPictures/structure.jpg" />
 </div>
 
 ## Introduction
