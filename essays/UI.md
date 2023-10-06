@@ -16,7 +16,7 @@ labels:
 
 ## The journey of Website Development
 
-Since the creation of the internet, the rapid change and transformation of the platform has changed throughout the years and continues to do so today. It's a space teeming with creativity, ideas, and innovations. One moment a collection of basic HTML elements, the next, a fully customized site of all types able to do anything of your imagination. My journey of web development, like many others, began with raw HTML and CSS, the very foundation of every webpage. Introduced along the way, I learned about UI frameworks, specifically Bootstrap 5.
+Since the creation of the internet, the rapid growth and transformation of the platform has changed throughout the years and continues to do so today. It's a space teeming with creativity, ideas, and innovations. One moment a collection of basic HTML elements, the next, a fully customized site of all types able to do anything of your imagination. My journey of web development, like many others, began with raw HTML and CSS, the very foundation of every webpage. Introduced along the way, I learned about UI frameworks, specifically Bootstrap 5.
 
 
 Imagine having to paint a detailed landscape, but instead of having a palette filled with mixed colors, all you have are the primary colors. Raw HTML and CSS feel exactly like that. They are fundamental however, and require a great deal of knowledge and fluency to be able to create the sites up to the standards of what we normally see today. Every box-shadow, gradient, or responsive design has to be hand-coded and could take hours for even the best (I would imagine). 
