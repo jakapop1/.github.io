@@ -13,30 +13,39 @@ labels:
   - CSS
   - BootStrap
 ---
-<div style="text-align: center;">
-  <h1 style="font-size: 28px;"></h1>
-  <img src="/img/essayPictures/structure.jpg" />
+
+## The journey of Website Development
+
+The metamorphosis of the internet is nothing short of a digital renaissance. It's a space teeming with creativity, ideas, and myriad innovations. One moment it's a humble canvas with basic HTML elements, and the next, it transforms into a magnificent tapestry of colors, animations, and interactivity, all woven intricately by the wizards we call web developers. My journey through the labyrinth of web development, like many others, began with raw HTML and CSS, the very foundation of every webpage. But as I ventured deeper, I stumbled upon the game-changer: UI Frameworks, particularly Bootstrap 5.
+
+Imagine having to paint a detailed landscape, but instead of having a palette filled with mixed colors, all you have are the primary colors. Raw HTML and CSS feel exactly like that. They are potent and foundational but can be labor-intensive and require meticulous attention to detail. Every box-shadow, gradient, or responsive design has to be hand-coded, taking hours, sometimes days, to perfect.
+
+Enter Bootstrap 5, which to me felt like the art kit I didn't know I needed. With its pre-designed components and responsive grid system, it expedited the process of creating professional-looking web pages without reinventing the wheel. But let’s not get carried away just yet. Like every tool, it comes with its set of challenges. The learning curve, although less steep than raw CSS, still requires a discerning understanding of its components and classes.
+
+Now, what makes Bootstrap and other UI frameworks invaluable?
+
+Consistency and Professionalism: UI frameworks provide a standardized system ensuring consistent design across different sections of the site. This can be illustrated by comparing a web page built with raw HTML and CSS with another constructed using Bootstrap 5. The difference is palpable, both in design coherence and visual appeal.
+
+<div style="display: flex; justify-content: center;">
+    <div style="text-align: center; margin-right: 15px;">
+        <h1 style="font-size: 28px;"></h1>
+        <img src="/img/essayPictures/RAW.PNG" />
+    </div>
+    <div style="text-align: center; margin-left: 15px;">
+        <h1 style="font-size: 28px;"></h1>
+        <img src="/img/essayPictures/UI.PNG" />
+    </div>
 </div>
 
-## Introduction
-When first starting on my coding journey, I was overwhelmed by all the ins and outs of programming. Java, my initial language of choice, seemed to be a maze of syntax that I struggled to navigate. The challenge, in retrospect, wasn’t just about the memorization of syntax; it was more so about understanding the underlying structure and logic of the code. Overtime, I had realized (after learning a few more languages) that every programming language has a structure, and by learning the structure, learning the syntaxes becomes a lot more intuitive. As a result, I now understand and appreciate the importance of coding standards. 
+Rapid Development: Pre-built components drastically reduce the time spent on coding. Need a navbar or a carousel? A few lines of code, and it's done!
 
-## What do Coding Standards do?
-Coding standards are more than just a set of rules to bother programmers; they serve as the backbone of a well-structured codebase. While little details like indentation or line spacing may seem trivial (and annoying at times), they play a role in ensuring the code’s readability and maintainability. A well-structured code is not just about functionality; it’s about the code being universally understandable. Clear, readable code is especially important when collaborating with others. If a colleague/partner can quickly understand your code, they can immediately get to work and vice versa. I think that this factor alone is one of the most crucial especially in a professional environment. From my own experience in working on several projects with classmates, I found that sometimes when a code is very unorganized, I found myself taking too long to understand a function that was a lot simpler than it seemed!
+Responsiveness: Building a responsive website using raw CSS can be a Herculean task. Bootstrap’s grid system makes this process seamless, ensuring the site looks flawless on devices of all sizes.
 
-## My experience with Eslint
- In transitioning to JavaScript, I was recently introduced to ESLint, a tool which enforces coding standards for my ICS 314 class. So far, Eslint is my favorite among other standards I’ve used, that could also be because of a different IDE from JGrasp to IntelliJ. I found the shortcuts more intuitive while the explanations for errors were a lot clearer and to the point. I found that, for Eslint, it wasn’t just pointing out errors but it was also teaching the best practices. For example, Eslint would suggest declaring a variable as a constant if it wasn’t modified later in the code. It’s a suggestion that makes total sense and that was one of the first thing that stood out for me. I think that these standards not only make the code more efficient but instills a deeper understanding of the language and it’s best practices.
+Customizable: While frameworks provide default styling, they are also highly customizable. So, if you’re worried about your site looking like every other Bootstrap site out there, there’s plenty of room to add your personal touch.
 
-## Importance of Standards
-From my experience across various programming languages, I've come to realize that coding standards are instrumental in creating a visual and logical structure for any program. When adhering to it, the code becomes a lot more readable especially when I had first started coding. I used to not keep up with little things like line spacing, indentation, comments but once I followed through with the standards, I had always found myself amazed and satisfied by how much more professional the code looked. 
+Community Support: Popular frameworks have robust communities. Issues, queries, or the need for custom solutions? There's always someone out there who's faced and probably solved the same problem.
 
-## Conclusion
-In conclusion, coding standards may be underappreciated by some, but definitely deserve a second look especially for those into software development. They ensure that the code is not just functional, but readable, maintainable, and efficient. Not only will these standards teach you about the language but also prepare you for the professional world of development!
+However, it's essential to note that UI frameworks are not a one-size-fits-all solution. For projects with very specific design requirements, going the raw HTML and CSS way might still be beneficial. But for most web development needs, especially when time is of the essence, frameworks like Bootstrap are a godsend.
 
-
-
-
-
-## Resources:
-[Photo Credit](https://dev.to/fahimulhaq/top-8-data-structures-for-coding-interviews-and-practice-interview-questions-2pb)
+In conclusion, the vast world of web development offers endless possibilities. While raw HTML and CSS are the fundamental building blocks, UI frameworks are the scaffolding that helps us construct more efficiently and effectively. My dalliance with Bootstrap 5 has been both challenging and rewarding. The time and effort invested in mastering it have paid dividends in terms of efficiency and design quality. If web development is an art, then UI frameworks are the brushes that enable us to paint faster, better, and more beautifully.
 
