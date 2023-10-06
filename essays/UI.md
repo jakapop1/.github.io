@@ -22,15 +22,13 @@ Since the creation of the internet, the rapid growth and transformation of the p
 Imagine having to paint a detailed landscape, but instead of having a palette filled with mixed colors, all you have are the primary colors. Raw HTML and CSS feel exactly like that. They are fundamental however, and require a great deal of knowledge and fluency to be able to create the sites up to the standards of what we normally see today. Every box-shadow, gradient, or responsive design has to be hand-coded and could take hours for even the best (I would imagine). 
 
 
-Now in learning about UI Frameworks, enter Bootstrap 5, which to me felt like the kit I didn't know I needed. With its pre-designed components and responsive grid system, it sped the process of creating professional-looking web pages without reinventing the wheel. At the same time however, like every tool, it comes with its own learning curve. Although less steep than raw CSS, still requires time to learn it’s components and classes.
+Now in learning about UI Frameworks, enter Bootstrap 5, which to me felt like the kit I didn't know I needed. With its pre-designed components and responsive grid system, it sped the process of creating professional-looking web pages. At the same time however, like every tool, it comes with its own learning curve. Although less steep than raw CSS/HTML, still requires time to learn it’s components and classes.
 
 
 
 
 # Now, what makes Bootstrap and other UI frameworks invaluable?
 
-## Consistency and Professionalism:
-UI frameworks provide a standardized system ensuring consistent design across different sections of the site. This can be illustrated by comparing a web page built with raw HTML and CSS with another constructed using Bootstrap 5. The difference is clear, both in design and visual appeal. The first image below was made with raw css and html configurations. The configurations consisted of putting paragraphs in columns while each matched with a logo of proper sizes with the navigation bar at the top. The image below the first was made with bootstrap 5 augmented by a little bit of css styling. A lot of the icons were provided by bootstrap with an option of even drop down menus and footers at the bottom of the page (not visible in picture). 
 
 
 <div style="display: flex; justify-content: center;">
@@ -43,6 +41,9 @@ UI frameworks provide a standardized system ensuring consistent design across di
         <img src="/img/essayPictures/UI.PNG" style="max-width: 100%; height: auto;" />
     </div>
 </div>
+
+## Consistency and Professionalism:
+UI frameworks provide a standardized system ensuring consistent design across different sections of the site. This can be illustrated by comparing a web page built with raw HTML and CSS with another constructed using Bootstrap 5. The difference is clear, both in design and visual appeal. The first image on the left was made with raw css and html configurations. The configurations consisted of putting paragraphs in columns while each matched with a logo of proper sizes with the navigation bar at the top. The image on the right was made with bootstrap 5 augmented by a little bit of css styling. A lot of the icons were provided by bootstrap with an option of even drop down menus and footers at the bottom of the page (not visible in picture). 
 
 
 ## Rapid Development:
