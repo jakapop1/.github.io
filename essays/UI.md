@@ -36,13 +36,14 @@ UI frameworks provide a standardized system ensuring consistent design across di
 <div style="display: flex; justify-content: center;">
     <div style="text-align: center; margin-right: 15px;">
         <h1 style="font-size: 28px;"></h1>
-        <img src="/img/essayPictures/RAW.PNG" />
+        <img src="/img/essayPictures/RAW.PNG" style="max-width: 100%; height: auto;" />
     </div>
     <div style="text-align: center; margin-left: 15px;">
         <h1 style="font-size: 28px;"></h1>
-        <img src="/img/essayPictures/UI.PNG" />
+        <img src="/img/essayPictures/UI.PNG" style="max-width: 100%; height: auto;" />
     </div>
 </div>
+
 
 ## Rapid Development:
 Pre-built components drastically reduce the time spent on coding. For example, need a navbar? A few lines of code (even from the documentation itself), and it's done! All you would need to do then is customize it to your liking!
