@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Project: Help for the Uninsured"
 # All dates must be YYYY-MM-DD format!
-date: 2023-11-1
+date: 2023-11-01
 published: true
 labels:
   - Computer Science
