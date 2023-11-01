@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Help for the Uninsured"
+title: "Project: Help for the Uninsured"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-01
 published: true
@@ -13,17 +13,6 @@ labels:
   - GitHub Hosting
 ---
 
-
-
-
-
-
-
-
-
-
-
-*Help for the Uninsured*
 ## Overview
 
 *The Problem*
