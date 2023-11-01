@@ -45,8 +45,5 @@ Shows user healthcare options based on the user's location.
 
 
 ## Authors:
-Jakapop Khongnawang
-Chad Maeshiro
-Liam Van Asperen
-Taitusi Vadei
+Jakapop Khongnawang, Chad Maeshiro, Liam Van Asperen, Taitusi Vadei
 
