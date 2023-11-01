@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Project: Help for the Uninsured"
+title: "Final Project Idea"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-01
 published: true
