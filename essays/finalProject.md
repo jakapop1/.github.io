@@ -1,12 +1,16 @@
 ---
 layout: essay
 type: essay
-title: "Why JavaScript is Great!"
+title: "Help for the Uninsured"
 # All dates must be YYYY-MM-DD format!
-date: 2023-08-30
+date: 2023-11-01
 published: true
 labels:
   - Computer Science
+  - Meteor
+  - React
+  - Bootstrap 5
+  - GitHub Hosting
 ---
 
 
@@ -19,24 +23,38 @@ labels:
 
 
 
-*My Experience with JavaScript.*
+*Help for the Uninsured*
+# Overview
 
-## Introduction:
+### The Problem
+Access to affordable healthcare is a significant issue in Hawaii. Uninsured or underinsured individuals often struggle to find information about healthcare services that they can afford, leading to delayed or no care.
 
-In my journey into the world of programming, I have used various programming languages such as Java, C++, and C#, each with it’s own pros and cons that I notice over the others. However, with my recent exposure to JavaScript has been a welcome experience for me. As a complete beginner to JavaScript, I have found it to be great, especially compared to the others. This essay delves into my impression of JavaScript and the concept of athletic software engineering.
+### The Solution
+A web application designed to guide uninsured and underinsured individuals in Hawaii to various healthcare options. It aggregates and simplifies information about various healthcare services, providing an easy-to-navigate platform that points users to the most relevant and cost-effective healthcare solutions.
+# Approach
+The web application will operate without storing personal user data, ensuring privacy and compliance with regulations. The application will feature:
+- User Profiles: 
+Users can indicate their insurance status (insured, uninsured, or underinsured) and their healthcare needs.
+- Directory: 
+A comprehensive listing of healthcare facilities, services offered, and costs, filterable by various criteria.
 
-## JavaScript’s Versatility:
 
-One of the standout features of JavaScript compared to my previous languages is its versatility. A big reason I feel this way is because, for example, Java with its heavy syntax makes programming and its actions feel restrictive and counterintuitive. However, JavaScript often surprises me with its flexibility. For instance, the ability to use strings as dictionaries within an array, effortlessly store objects within arrays, and even nest objects and arrays within one another feels almost wrong and too easy. Features like these for me open up a lot more creative possibilities that were not as clear with languages like Java or C++ when I was first starting out. 
+# Mockup Page Ideas
+- Landing Page: Welcomes users and guides them to indicate their insurance status and healthcare needs.
+- Directory: Lists healthcare services, allowing filtering by location, cost, services, and insurance accepted.
 
-## JavaScript from a Software Engineering Perspective:
 
-From a software engineering perspective, JavaScript is amazing. I think that it provides a good balance of being intuitive to users and maintaining it’s complexity. It’s presence on the web makes sure that it’s a valuable skill to have in the field of computer science. 
+# Use Case Ideas
+An uninsured individual uses the web application to find a nearby clinic offering affordable services for their condition.
 
-## Athletic Software Engineering in ICS314:
+# Beyond the Basics
+- Interactive Map 
+Shows user healthcare options based on the user's location.
 
-While the athletic software engineering approach can be stressful, so far I have found the experience quite rewarding especially when I am successful in completing the WODs. I think that it prepares students for the demands of software development in a professional setting where tight deadlines must be met. I think that working hard and successfully completing WODs provides a sense of accomplishment. A lot of pressure I notice comes from the fact that time is limited while you must accomplish the task efficiently. As a result, I think that it’s great practice overall to work under pressure while being able to think. Overall, this style of learning provides discipline and confidence that is essential in the software engineering industry.
 
-## Conclusion:
+## Authors:
+Jakapop Khongnawang
+Chad Maeshiro
+Liam Van Asperen
+Taitusi Vadei
 
-In conclusion, my introduction to JavaScript has so far been surprisingly pleasant, especially in comparison to my experiences with Java, C++, and C#. The language’s versatility, relevance in the industry, and intuitiveness provides a lot of value to software developers. Also, the athletic software engineering approach, I believe, provides invaluable experience into software development. As I continue in ICS314, I hope to continue enjoying JavaScript while strengthening my skills in athletic software engineering.
