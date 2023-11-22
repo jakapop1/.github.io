@@ -13,11 +13,6 @@ labels:
   - Software Development
 ---
 
-<div style="text-align: center; margin-right: 5px;">
-    <h1 style="font-size: 20px;"></h1>
-    <img src="/img/essayPictures/AIhead.png" style="max-width: 80%; height: auto;" />
-</div>
-
 ## Introduction
 
 In this essay, I explore the integration of Artificial Intelligence (AI) in education, particularly in Software Engineering while taking a lot of my own experiences into consideration. With AI's emergence, it's usage in education is undeniable, and for me in ICS 314, tools like ChatGPT, Bard, and Co-Pilot have changed the way I approach problems. AI, ChatGPT in particular, has played a huge role in enhancing my learning and understanding of software engineering concepts.   
