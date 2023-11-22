@@ -13,10 +13,10 @@ labels:
   - Software Development
 ---
 
-<div style="text-align: center; margin-right: 15px;">
-        <h1 style="font-size: 28px;"></h1>
-        <img src="/img/essayPictures/AIhead.png" style="max-width: 100%; height: auto;" />
-    </div>
+<div style="text-align: center; margin-right: 5px;">
+    <h1 style="font-size: 20px;"></h1>
+    <img src="/img/essayPictures/AIhead.png" style="max-width: 80%; height: auto;" />
+</div>
 
 ## Introduction
 
@@ -28,7 +28,8 @@ In ICS 314, I actively utilized AI in many different ways. My main approach was 
 
 - **WOD Assignements**: As a routine when doing the WOD assignments, I liked to try things out myself first while at the same time following the instruction guidlines provided and then after watch the video and follow along again from there. Issues however, would arise whether it be from the functionality or improper syntax, I would sometimes spend hours looking around and rewatching the video instructions. As a result, I would turn to ChatGPT to look over the code and see if there are any mistakes and 9 times out of 10, AI would pick up the error very quickly while explaining to me what went wrong.   
 
-- **Practice WODS**: I generally try to stay away from AI as I see the time period as a time for self learning as there are no actual grading involved. I think in the case where you are practicing without any pressure of having to finish, a lot more value is derived when you do the assignment without help.   
+- **Practice WODS**: I generally try to stay away from AI as I see the time period as a time for self learning as there are no actual grading involved. I think in the case where you are practicing without any pressure of having to finish, a lot more value is derived when you do the assignment without help.
+  
 - **In class WODS**: In class WODS are a bit different as they are worth a good bit of my grade. Sometimes under pressure, I tend to rely on ChatGPT to help debug especially when running into errors that I can’t figure out a solution to. At the same time, its like using Google for resources except that the response is more tailored to your needs. I remember when first using underscore functions in our class WOD, I ran into and spent almost the entire alotted time trying to debug a small error in syntax as I was also still realtively new to underscore fucnctions. At that point, I realized that if I wanted to pass, I needed extra resources and turned to Chat GPT which then helped me fix a small error to then get my code to work.   
 
 - **Essays**: I found that AI would be quite useful in gathering ideas on how to approach a question prompt, however my take on using AI for essays is to follow along very loosely. That is due to the fact that if utilized too much, you would lose your writing voice and that wouldnt really be your essay anymore.
