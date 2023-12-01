@@ -37,21 +37,20 @@ Another example of my usage with design pattern is the structural pattern Adapte
 
 Overall, my visualization of various design patterns is the building of the great pyramids. Even though in that era technology and resources were limited, due to the excellent designs of the Egyptians, the pyramids today remain one of the greatest structure to have been created by man. To me, design patterns are like that as they provide a strong fundamental idea that if followed can create a powerful structure in which to build upon until the final product is created as a result of various design patterns implemented for different issues. 
 
-## Conclusion:   
-The usage of various design patterns have allowed me to replicate already existing solutions to various programming problems. That is because these design patterns can apply to any programming language as it is essentially the blueprints utilized to create working structures that have been used and proven to work. Conversely, I think that if I were to tackle a problem without already having a design pattern in mind, the issues to be tackled would be significantly harder as you would have to think of various cases in which your own design would fail and have to continuously work through it to then result in a complete and working design. Overall, design patterns are in every parts of programming and as a result, it is pretty much impossible to learn programming without picking some up. As new and more difficult problems in software engineering arises, new design patterns are sure to arise with a way to tackle the solution. 
-
-
-
 <div style="display: flex; justify-content: center;">
     <div style="text-align: center; margin-left: 15px;">
         <h1 style="font-size: 28px;"></h1>
-        <img src="/img/essayPictures/AIcartoon.png" style="max-width: 100%; height: auto;" />
+        <img src="/img/pyramid.png" style="max-width: 100%; height: auto;" />
     </div>
       <div style="text-align: center; margin-left: 15px;">
         <h1 style="font-size: 28px;"></h1>
-        <img src="/img/essayPictures/AIpc.png" style="max-width: 100%; height: auto;" />
+        <img src="/img/balance.png" style="max-width: 100%; height: auto;" />
     </div>
 </div>
+
+
+## Conclusion:   
+The usage of various design patterns have allowed me to replicate already existing solutions to various programming problems. That is because these design patterns can apply to any programming language as it is essentially the blueprints utilized to create working structures that have been used and proven to work. Conversely, I think that if I were to tackle a problem without already having a design pattern in mind, the issues to be tackled would be significantly harder as you would have to think of various cases in which your own design would fail and have to continuously work through it to then result in a complete and working design. Overall, design patterns are in every parts of programming and as a result, it is pretty much impossible to learn programming without picking some up. As new and more difficult problems in software engineering arises, new design patterns are sure to arise with a way to tackle the solution. 
 
 [Resources](https://sourcemaking.com/design_patterns)
 
