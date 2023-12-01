@@ -40,11 +40,11 @@ The way I like to visualize design patterns is to vision the building of the gre
 <div style="display: flex; justify-content: center;">
     <div style="text-align: center; margin-left: 15px;">
         <h1 style="font-size: 28px;"></h1>
-        <img src="/img/pyramid.png" style="max-width: 100%; height: auto;" />
+        <img src="/img/pyr.png" style="max-width: 100%; height: auto;" />
     </div>
       <div style="text-align: center; margin-left: 15px;">
         <h1 style="font-size: 28px;"></h1>
-        <img src="/img/balance.png" style="max-width: 100%; height: auto;" />
+        <img src="/img/pyr2.png" style="max-width: 100%; height: auto;" />
     </div>
 </div>
 
