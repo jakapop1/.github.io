@@ -27,7 +27,14 @@ In regards to coding standards, ICS314 utilized Eslint. Eslint is a static code 
 - **Ethics in Software Engineering**: Through ICS314, I got to further learn about ethics in software engineering. I learned that it extends beyond more than contractual obligations. While those factors are important, I saw that it encompasses a commitment to quality, timeliness while upholding general standards. For example, during my final project, I realized even if your teammate doesn't stick with the contract and produces work that is non functional, you are responsible for working around any issues as the end goal is the project's completion. These types of knowledge, I believe, encompasses ICS 314 and all other fields of software development.
 
 - **User Interface Frameworks**:
-  My exposure to User Interface Frameworks, mainly through React Bootstrap and the integration with Meteor and MongoDB was one of the highlights for me. Through learning about the different types of user interface frameworks, I developed a better understanding of client-server interaction, component creation, and page layouts. At the same time, I noticed that the 
+  My exposure to User Interface Frameworks, mainly through React Bootstrap and the integration with Meteor and MongoDB was one of the highlights for me. Through learning about the different types of user interface frameworks, I developed a better understanding of client-server interaction, component creation, and page layouts. This knowledge is transferable to other software development areas like mobile applications where similar principles like component-based architecture and responsive design are applicable.
+
+  -**Development Environments**:
+  Mentioned previously, the final project was a practical immersion into a development environment, leveraging tools like GitHub for issue and task management. This aspect of the course highlighted the significance of organized, collaborative environments in software development.
+
+
+## Conclusion
+  ICS 314, though centered around web application, has been a great introduction to fundamental software engineering concepts. Learning about coding standards, ethics, user interface frameworks and development showed me that these areas all shine in other areas of software development. 
   
 
 
