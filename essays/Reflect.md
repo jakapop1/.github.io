@@ -41,13 +41,10 @@ In regards to coding standards, ICS314 utilized Eslint. Eslint is a static code 
 <div style="display: flex; justify-content: center;">
     <div style="text-align: center; margin-left: 15px;">
         <h1 style="font-size: 28px;"></h1>
-        <img src="/img/pyr.png" style="max-width: 100%; height: auto;" />
-    </div>
-      <div style="text-align: center; margin-left: 15px;">
-        <h1 style="font-size: 28px;"></h1>
-        <img src="/img/pyr2.png" style="max-width: 100%; height: auto;" />
+        <img src="/img/sun.png" style="max-width: 70%; height: auto;" />
     </div>
 </div>
 
+[Photo Credit](https://wall.alphacoders.com/by_sub_category.php?id=168673&name=Sunset+Wallpapers)
 
 
