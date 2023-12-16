@@ -125,44 +125,45 @@ class FavoriteUserCollection {
 ```
 
 ## Application
-Upon site arrival, users are met at the landing page providing an introduction of the site. Users are able to directly go to the filter page.
-    <div style="text-align: center;">
-        <img src="/img/pono/1.PNG" alt="Fishing Game" style="max-width: 800px; display: inline-block; margin: 10px;" />
-        <img src="/img/pono/2.PNG" alt="Fishing Game" style="max-width: 800px; display: inline-block; margin: 10px;" />
+<div style="text-align: center;">
+<p>Upon site arrival, users are met at the landing page providing an introduction of the site. Users are able to directly go to the filter page. </p>
+    <div>
+        <img src="/img/pono/1.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
+        <img src="/img/pono/2.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
     </div>
-    <div style="text-align: center;">
-        <img src="/img/pono/3.PNG" alt="Fishing Game" style="max-width: 800px; display: inline-block; margin: 10px;" />
-        <img src="/img/pono/4.PNG" alt="Fishing Game" style="max-width: 800px; display: inline-block; margin: 10px;" />
+    <div>
+        <img src="/img/pono/3.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
+        <img src="/img/pono/4.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
     </div>
-    <div style="text-align: center;">
-        <img src="/img/pono/5.PNG" alt="Fishing Game" style="max-width: 800px; display: inline-block; margin: 10px;" />
-        <img src="/img/pono/6.PNG" alt="Fishing Game" style="max-width: 800px; display: inline-block; margin: 10px;" />
+    <div>
+        <img src="/img/pono/5.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
+        <img src="/img/pono/6.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
     </div>
-    <div style="text-align: center;">
-        <img src="/img/pono/7.PNG" alt="Fishing Game" style="max-width: 800px; display: inline-block; margin: 10px;" />
-        <img src="/img/pono/8.PNG" alt="Fishing Game" style="max-width: 800px; display: inline-block; margin: 10px;" />
+    <div>
+        <img src="/img/pono/7.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
+        <img src="/img/pono/8.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
     </div>
-    <div style="text-align: center;">
-        <img src="/img/pono/9.PNG" alt="Fishing Game" style="max-width: 800px; display: inline-block; margin: 10px;" />
-        <img src="/img/pono/10.PNG" alt="Fishing Game" style="max-width: 800px; display: inline-block; margin: 10px;" />
+    <div>
+        <img src="/img/pono/9.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
+        <img src="/img/pono/10.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
     </div>
-    <div style="text-align: center;">
-        <img src="/img/pono/11.PNG" alt="Fishing Game" style="max-width: 800px; display: inline-block; margin: 10px;" />
-        <img src="/img/pono/12.PNG" alt="Fishing Game" style="max-width: 800px; display: inline-block; margin: 10px;" />
+    <div>
+        <img src="/img/pono/11.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
+        <img src="/img/pono/12.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
     </div>
-    <div style="text-align: center;">
-        <img src="/img/pono/13.PNG" alt="Fishing Game" style="max-width: 800px; display: inline-block; margin: 10px;" />
-        <img src="/img/pono/14.PNG" alt="Fishing Game" style="max-width: 800px; display: inline-block; margin: 10px;" />
+    <div>
+        <img src="/img/pono/13.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
+        <img src="/img/pono/14.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
     </div>
-    <div style="text-align: center;">
-        <img src="/img/pono/15.PNG" alt="Fishing Game" style="max-width: 800px; display: inline-block; margin: 10px;" />
-        <img src="/img/pono/16.PNG" alt="Fishing Game" style="max-width: 800px; display: inline-block; margin: 10px;" />
+    <div>
+        <img src="/img/pono/15.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
+        <img src="/img/pono/16.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
     </div>
-    <div style="text-align: center;">
-        <img src="/img/pono/17.PNG" alt="Fishing Game" style="max-width: 800px; display: inline-block; margin: 10px;" />
-        <img src="/img/pono/18.PNG" alt="Fishing Game" style="max-width: 800px; display: inline-block; margin: 10px;" />
+    <div>
+        <img src="/img/pono/17.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
+        <img src="/img/pono/18.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
     </div>
-
+</div>>
 
 ## Lessons Learned
 
