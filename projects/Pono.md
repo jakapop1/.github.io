@@ -252,6 +252,16 @@ class FavoriteUserCollection {
 </div>
 
 
+<div style="text-align: center;">
+    <div>
+        <img src="/img/pono/1.PNG" alt="Fishing Game" style="max-width: 300px; display: inline-block; margin: 10px;" />
+        <img src="/img/pono/2.PNG" alt="Fishing Game" style="max-width: 300px; display: inline-block; margin: 10px;" />
+    </div>
+    <div>
+        <img src="/img/pono/3.PNG" alt="Fishing Game" style="max-width: 300px; display: inline-block; margin: 10px;" />
+        <img src="/img/pono/4.PNG" alt="Fishing Game" style="max-width: 300px; display: inline-block; margin: 10px;" />
+    </div>
+</div>>
 
 ## Lessons Learned
 
