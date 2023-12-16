@@ -14,14 +14,6 @@ labels:
 summary: "ICS314/HACC project"
 ---
 
-<div style="text-align: center;">
-
-  <h1 style="font-size: 28px;"></h1>
-
-  <img src="/img/pono/1.PNG" alt="Fishing Game" style="max-width: 600px; margin: 20px auto;" />  
-
-</div>
-
 <!-- Brief project summary -->
 HACC-2023 project with the goal of creating a web application for the people of Hawaii to find medical care regardless of insurance status. 
 
@@ -131,6 +123,133 @@ class FavoriteUserCollection {
         label: 'Address',
 ```
 
+## Application
+<div style="text-align: center;">
+
+  <h1 style="font-size: 28px;"></h1>
+
+  <img src="/img/pono/1.PNG" alt="Fishing Game" style="max-width: 600px; margin: 20px auto;" />  
+
+</div>
+<div style="text-align: center;">
+
+  <h1 style="font-size: 28px;"></h1>
+
+  <img src="/img/pono/2.PNG" alt="Fishing Game" style="max-width: 600px; margin: 20px auto;" />  
+
+</div>
+<div style="text-align: center;">
+
+  <h1 style="font-size: 28px;"></h1>
+
+  <img src="/img/pono/3.PNG" alt="Fishing Game" style="max-width: 600px; margin: 20px auto;" />  
+
+</div>
+<div style="text-align: center;">
+
+  <h1 style="font-size: 28px;"></h1>
+
+  <img src="/img/pono/4.PNG" alt="Fishing Game" style="max-width: 600px; margin: 20px auto;" />  
+
+</div>
+<div style="text-align: center;">
+
+  <h1 style="font-size: 28px;"></h1>
+
+  <img src="/img/pono/5.PNG" alt="Fishing Game" style="max-width: 600px; margin: 20px auto;" />  
+
+</div>
+<div style="text-align: center;">
+
+  <h1 style="font-size: 28px;"></h1>
+
+  <img src="/img/pono/6.PNG" alt="Fishing Game" style="max-width: 600px; margin: 20px auto;" />  
+
+</div>
+<div style="text-align: center;">
+
+  <h1 style="font-size: 28px;"></h1>
+
+  <img src="/img/pono/7.PNG" alt="Fishing Game" style="max-width: 600px; margin: 20px auto;" />  
+
+</div>
+<div style="text-align: center;">
+
+  <h1 style="font-size: 28px;"></h1>
+
+  <img src="/img/pono/8.PNG" alt="Fishing Game" style="max-width: 600px; margin: 20px auto;" />  
+
+</div>
+<div style="text-align: center;">
+
+  <h1 style="font-size: 28px;"></h1>
+
+  <img src="/img/pono/9.PNG" alt="Fishing Game" style="max-width: 600px; margin: 20px auto;" />  
+
+</div>
+<div style="text-align: center;">
+
+  <h1 style="font-size: 28px;"></h1>
+
+  <img src="/img/pono/10.PNG" alt="Fishing Game" style="max-width: 600px; margin: 20px auto;" />  
+
+</div>
+<div style="text-align: center;">
+
+  <h1 style="font-size: 28px;"></h1>
+
+  <img src="/img/pono/11.PNG" alt="Fishing Game" style="max-width: 600px; margin: 20px auto;" />  
+
+</div>
+<div style="text-align: center;">
+
+  <h1 style="font-size: 28px;"></h1>
+
+  <img src="/img/pono/12.PNG" alt="Fishing Game" style="max-width: 600px; margin: 20px auto;" />  
+
+</div>
+<div style="text-align: center;">
+
+  <h1 style="font-size: 28px;"></h1>
+
+  <img src="/img/pono/13.PNG" alt="Fishing Game" style="max-width: 600px; margin: 20px auto;" />  
+
+</div>
+<div style="text-align: center;">
+
+  <h1 style="font-size: 28px;"></h1>
+
+  <img src="/img/pono/14.PNG" alt="Fishing Game" style="max-width: 600px; margin: 20px auto;" />  
+
+</div>
+<div style="text-align: center;">
+
+  <h1 style="font-size: 28px;"></h1>
+
+  <img src="/img/pono/15.PNG" alt="Fishing Game" style="max-width: 600px; margin: 20px auto;" />  
+
+</div>
+<div style="text-align: center;">
+
+  <h1 style="font-size: 28px;"></h1>
+
+  <img src="/img/pono/16.PNG" alt="Fishing Game" style="max-width: 600px; margin: 20px auto;" />  
+
+</div>
+<div style="text-align: center;">
+
+  <h1 style="font-size: 28px;"></h1>
+
+  <img src="/img/pono/17.PNG" alt="Fishing Game" style="max-width: 600px; margin: 20px auto;" />  
+
+</div>
+<div style="text-align: center;">
+
+  <h1 style="font-size: 28px;"></h1>
+
+  <img src="/img/pono/18.PNG" alt="Fishing Game" style="max-width: 600px; margin: 20px auto;" />  
+
+</div>
 
 
 
