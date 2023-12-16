@@ -11,7 +11,7 @@ labels:
   - HTML
   - CSS
   - Web-Development
-summary: "ICS314/HACC project"
+summary: "ICS314/HACC project."
 ---
 
 <!-- Brief project summary -->
