@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/4k1.jpg  
+image: img/PonoHealthLogo.png/  
 title: "HACC 2023"
 date: 2023
 published: true
@@ -185,9 +185,9 @@ Through this project, I have gained further insight into collaborative environme
 
 ## Resources
 
-[Deployed-site](https://ponohealthproviders.com/)
-[Github Homepage](https://team-jackfruit.github.io/PonoHealthProviders/)
-[readme](https://github.com/team-jackfruit/PonoHealthProviders/blob/main/README.md)
-[Repository](https://github.com/team-jackfruit/PonoHealthProviders)
+[Deployed-site](https://ponohealthproviders.com/)   
+[Github Homepage](https://team-jackfruit.github.io/PonoHealthProviders/)   
+[readme](https://github.com/team-jackfruit/PonoHealthProviders/blob/main/README.md)   
+[Repository](https://github.com/team-jackfruit/PonoHealthProviders)   
 
 
