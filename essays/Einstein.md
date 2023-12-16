@@ -4,7 +4,7 @@ type: essay
 title: "The History of Albert Einstein"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-14
-published: true
+published: false
 labels:
   - History
   - Biography

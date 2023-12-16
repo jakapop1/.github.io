@@ -4,7 +4,7 @@ type: essay
 title: "Coding Standards"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-21
-published: true
+published: false
 labels:
   - Programming  
   - Standards
