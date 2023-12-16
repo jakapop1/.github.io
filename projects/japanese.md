@@ -4,7 +4,7 @@ type: project
 image: Japanese_File_Sort/Fuji.JPEG
 title: "Japanese Text File Sorting"
 date: 2023
-published: true
+published: false
 labels:
   - C++
   - Sorting
