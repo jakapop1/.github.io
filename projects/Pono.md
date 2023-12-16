@@ -73,7 +73,8 @@ For this project, I worked in a team of 4. My responsibilities were mainly the w
         fax: '(808) 440-3084',
         chiefOperatingOfficer: 'Stacey Young',
       },  
-- ```
+      
+```
 
 - Filter Code 
 ```
@@ -275,10 +276,9 @@ Through this project, I have gained further insight into collaborative environme
 
 ## Resources
 
-[readme](https://github.com/jakapop1/jakapop1.github.io/blob/ae553bcbb5ff7d099db80edef2e9e1faf17228cf/Fishing%20Folder/README.md)
+[Deployed-site](https://ponohealthproviders.com/)
+[Github Homepage](https://team-jackfruit.github.io/PonoHealthProviders/)
+[readme](https://github.com/team-jackfruit/PonoHealthProviders/blob/main/README.md)
+[Repository](https://github.com/team-jackfruit/PonoHealthProviders)
 
 
-[fishingTournament.java](https://github.com/jakapop1/jakapop1.github.io/blob/ae553bcbb5ff7d099db80edef2e9e1faf17228cf/Fishing%20Folder/FishingTournament.java)
-
-
-[cloned repository codebase](https://github.com/jakapop1/jakapop1.github.io/tree/ae553bcbb5ff7d099db80edef2e9e1faf17228cf/Fishing%20Folder)
