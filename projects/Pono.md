@@ -1,8 +1,7 @@
 ---
 layout: project
 type: project
-image: https://github.com/jakapop1/jakapop1.github.io/blob/5f79e98dc5abca12ad2e79b26977c2bf1707fc72/img/OceanWave.PNG?raw=true
-title: "HACC 2023"
+image: img/OceanWave.PNG
 title: "HACC 2023"
 date: 2023
 published: true
