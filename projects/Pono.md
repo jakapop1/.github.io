@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/pono/PonoHealthLogo.png/  
+image: img/pono/OceanWave.jpeg/  
 title: "HACC 2023"
 date: 2023
 published: true
