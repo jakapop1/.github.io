@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /img/pono/OceanWave.PNG/  
+image: img/pono/OceanWave.PNG/  
 title: "HACC 2023"
 date: 2023
 published: true
