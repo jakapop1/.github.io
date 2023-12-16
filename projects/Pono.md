@@ -18,7 +18,7 @@ summary: "ICS314/HACC project"
 
 [//]: # (  <h1 style="font-size: 28px;"></h1>)
 
-[//]: # (  <img src="/img/fishing.jpg" alt="Fishing Game" style="max-width: 600px; margin: 20px auto;" />  )
+[//]: # (  <img src="/img/pono/1.PNG" alt="Fishing Game" style="max-width: 600px; margin: 20px auto;" />  )
 
 [//]: # (</div>)
 
