@@ -141,6 +141,7 @@ class FavoriteUserCollection {
         <img src="/img/pono/3.PNG" style="max-width: 600px; display: inline-block; margin: 10px;" />
         <img src="/img/pono/4.PNG" style="max-width: 600px; display: inline-block; margin: 10px;" />
     </div>
+ <p style="font-weight: bold;">Users can click each of the cards for more information. </p>
     <div>
         <img src="/img/pono/5.PNG" style="max-width: 600px; display: inline-block; margin: 10px;" />
         <img src="/img/pono/6.PNG" style="max-width: 600px; display: inline-block; margin: 10px;" />
@@ -157,17 +158,19 @@ class FavoriteUserCollection {
         <img src="/img/pono/9.PNG" style="max-width: 600px; display: inline-block; margin: 10px;" />
         <img src="/img/pono/10.PNG" style="max-width: 600px; display: inline-block; margin: 10px;" />
     </div>
+ <p style="font-weight: bold;">Users are then able to now favorite a card to be viewed later on their personal account. </p>
     <div>
         <img src="/img/pono/11.PNG" style="max-width: 600px; display: inline-block; margin: 10px;" />
         <img src="/img/pono/12.PNG" style="max-width: 600px; display: inline-block; margin: 10px;" />
     </div>
- <p style="font-weight: bold;">In viewing the card on the user's profile, users can add a profile picture or even get directions to the favorited location.
+ <p style="font-weight: bold;">In viewing the card on the user's profile, users can access the map to the location of the facility as a favorite card.
 
 </p>
     <div>
         <img src="/img/pono/13.PNG" tyle="max-width: 600px; display: inline-block; margin: 10px;" />
         <img src="/img/pono/14.PNG" style="max-width: 600px; display: inline-block; margin: 10px;" />
     </div>
+ <p style="font-weight: bold;">Users also have the option to edit their personal information while adding a profile picture. </p>
     <div>
         <img src="/img/pono/15.PNG" style="max-width: 600px; display: inline-block; margin: 10px;" />
         <img src="/img/pono/16.PNG" style="max-width: 600px; display: inline-block; margin: 10px;" />
