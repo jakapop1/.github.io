@@ -1,0 +1,268 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Fishing Tournament | Jakapop Khongnawang | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://avatars.githubusercontent.com/u/112127377?s=400&u=3387e3039c3950bac50364611e8231a35638a78a&v=4">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Jakapop Khongnawang | Professional Portfolio">
+    <meta property="og:url" content="https://jakapop1.github.io/projects/FishingGame.html">
+    <meta property="og:title" content="Fishing Tournament | Jakapop Khongnawang | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://avatars.githubusercontent.com/u/112127377?s=400&u=3387e3039c3950bac50364611e8231a35638a78a&v=4">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Fishing Tournament | Jakapop Khongnawang | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Jakapop Khongnawang</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Fishing Tournament</h1>
+ <!-- Add a professional header with centered title -->
+<div style="text-align: center;">
+  <h1 style="font-size: 28px;"></h1>
+  <img src="/img/fishing.jpg" alt="Fishing Game" style="max-width: 600px; margin: 20px auto;" />  <!-- Updated image path -->
+</div>
+
+<!-- Brief project summary -->
+<p>A text-based fishing game developed for ICS 211 with the goal of working in a collaborative environment.</p>
+
+<h2 id="introduction">Introduction</h2>
+
+<p>Fishing, a fun past time for many while even a career for others is undoubtedly an event in which has been a part of history for almost as long as humans have existed. As a result, knowing rules and regulations is a must as in most places you must conform to a certain standard on the do’s and dont’s while fishing. In this project, we aim to do just that through the Java command console as we implement the different types of fishes commonly found in Hawaii and the rules that apply when catching them. I invite you to peek at what we’ve created as one of our fun Java project for our ICS 211 class!</p>
+
+<h2 id="project-overview">Project Overview</h2>
+
+<p>The Fishing Game project is a collaborative project with me and my assigned partners. The objective of this project was to create an interactive two-player fishing tournament game. Some of the requirements for this project involved the development of a virtual ecosystem where players would take turns catching, collecting, and managing fish through the console. The project aimed to apply object-oriented programming principles in order to demonstrate our proficiency in Java that we had learned throughout the semester.</p>
+
+<h2 id="goal-of-the-project">Goal of the Project</h2>
+
+<p>Create a text-driven fishing experience while conforming to some of real world constraints and classifications such as legal fish sizes and seasonal availabilities.</p>
+
+<h2 id="my-role-and-contributions">My Role and Contributions</h2>
+
+<p>In this project, my primary responsibility was to implement various fish species according to the specifications provided. The fish species I worked on included Weke’ula, Weke’a, Uhu, Pua’ama, Panuhunuhu, Ohua, Oama, Kahaha, and Anae. Each fish had to adhere to the Fishable interface and its associated requirements, such as legal size, bait status, and catch methods.</p>
+
+<p>Another of my responsibility was in ensuring that the implemented fish classes integrated seamlessly with the existing codebase. This involved modifying the inheritance hierarchy, updating class methods, and testing the classes to verify their functionality.</p>
+
+<p>At the same time, my partners are doing the same but with different sets of classes representing other families of fishes.</p>
+
+<p>Lastly, my partners and I put the classes together to then structure the core gameplay of the Fishing Tournament. This included implementing the game’s main loop, player turns, fish interactions, and the determination of the game’s outcome while allowing players to make decisions on catching and managing their fish.</p>
+
+<h2 id="tools-and-technologies">Tools and Technologies</h2>
+<ul>
+  <li>Programming Language: Java</li>
+  <li>Platform: Console</li>
+  <li>Testing: JUnit tests</li>
+</ul>
+
+<h2 id="design--implementation">Design &amp; Implementation</h2>
+<p>Class Structure and Hierarchy:</p>
+<ul>
+  <li>Ama_ama.java</li>
+  <li>Anae.java</li>
+  <li>Kahaha.java</li>
+  <li>Oama.java</li>
+  <li>Panuhunuhu.java</li>
+  <li>Pua_ama.java</li>
+  <li>Uhu.java</li>
+  <li>Weke_a.java</li>
+  <li>Weke_ula.java</li>
+</ul>
+
+<h2 id="game-logic">Game Logic</h2>
+<ul>
+  <li>Fishingtournament.java</li>
+</ul>
+
+<h2 id="core-game-loop">Core Game Loop</h2>
+<p>Base structure of the fishing game.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>      Scanner userIn = new Scanner(System.in);
+      String inString = new String("");
+      boolean stopLoop = false;
+   
+      while (!stopLoop) {
+         System.out.println("******** Welcome to the Fishing Tournament Simulation! ********");
+         System.out.println("\nThis Game requires 2 players to play.");
+         System.out.println("Enter 1 to play.");
+         System.out.println("Enter 0 to quit.");
+      
+      //read in from user as a String -- much less errors can happen!
+         inString = userIn.nextLine();
+      
+      //take off any spaces on the string
+         inString = inString.trim();
+         
+         switch(inString) {
+            case "1":
+               playGame();
+               stopLoop = true;
+               break;
+            case "0":
+               break;
+            default :
+               System.out.println("Not a valid entry, please enter 1 or 0!");
+               break;
+       ......
+         }
+      
+      }
+       }
+</code></pre></div></div>
+<h2 id="player-interaction-within-game-rounds">Player Interaction within Game Rounds</h2>
+<p>Logic for how to handle a player’s turn with possible actions.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> for (int i = 0; i &lt; gameDuration;) {
+      
+      
+         while (!endLoop) {
+            playerOnesTurn = true;
+            System.out.println("\nPlayer 1, it is your turn!");
+            System.out.println("\n* Choose:");
+            System.out.println("1. Cast out for a fish");
+            System.out.println("2. View sack of fish");
+            System.out.println("3. Throw back a fish in the sack");
+         
+         //read in from user as a String -- much less errors can happen!
+            inString = userIn.nextLine();
+         
+         //take off any spaces on the string
+            inString = inString.trim();
+         
+            switch(inString) {
+               case "1":
+                  I_a tempFish = lawai_a(lokoi_a);
+                  if (tempFish != null) {
+                     player1.add(tempFish); 
+                  }
+                  endLoop = true;
+                  break;
+               case "2":
+                  System.out.println("You have " + player1.size() + " fish in your sack."); 
+                  for (int j = 0; j &lt; player1.size(); j++) { 
+                     System.out.println("Fish " + (j+1) + " \n" +
+                        player1.get(j).toString());
+                  } 
+                  break;
+               case "3":
+                        ......
+</code></pre></div></div>
+
+<h2 id="fishing-logic">Fishing Logic:</h2>
+<p>Demonstrates some of the randomness in the game’s mechanics through the use of exceptions, and decision/logic based player’s actions.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>public static I_a lawai_a(ArrayList&lt;FishableI_a&gt; fishPond) {
+      
+      Random randGen = new Random();
+      FishableI_a ia;
+      int chosenFish = 0;
+      boolean isCaught = false;
+      boolean isLegal = false;
+      Scanner userIn = new Scanner(System.in);
+      String inString = new String("");
+      boolean endLoop = false;
+   
+      
+      chosenFish = randGen.nextInt(POND_CAPACITY);
+      
+      try {
+         ia = fishPond.get(chosenFish);
+      
+         System.out.println("You have hooked a fish!");
+      //randomly caught or not
+         isCaught = randGen.nextBoolean();
+         if (isCaught) {
+            System.out.println("You have caught a fish!");
+            System.out.println(ia);
+            System.out.println("Do you want to keep this fish y/n?");
+            
+            inString = userIn.nextLine();
+            
+            if (inString.equalsIgnoreCase("y")) {
+               System.out.println("You have kept your fish");
+               fishPond.remove(chosenFish);
+
+            .....
+                                          
+            
+
+</code></pre></div></div>
+
+<h2 id="class-hierarchy-visual">Class Hierarchy Visual</h2>
+
+<p><img width="600px" class="rounded float-start pe-4" src="https://github.com/jakapop1/jakapop1.github.io/blob/main/img/classHier.PNG?raw=true" /></p>
+
+<p>A code snippet for one of the classes I had to implement extending another class.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>public class Anae extends Ama_ama {
+
+   /** constant maximum length for this Ia. */
+   private static final double anaeMaxLength = 27.0;
+
+   /** constant minimum length for this Ia. */
+   private static final double anaeMinLength = 12.0;
+
+
+   /**
+   * Constructor for making Anae with random length.
+   * This is the fourth phase of the family fish.
+   * @throws FishSizeException if length is less than minLength
+   */
+   public Anae() {
+      super("'Anae", anaeMaxLength, anaeMinLength, 
+         anaeMinLength, (anaeMinLength * 2), dietItems, "silver", "silver", "none");   
+
+      this.initLength();
+   }
+    ......
+</code></pre></div></div>
+
+<h2 id="lessons-learned">Lessons Learned</h2>
+
+<p>Through this project, I gained a lot of valuable experience in object-oriented design through Java programming. I learned how to design and implement a hierarchy of classes that adhered to specific interfaces. This project also improved my problem-solving skills, as I had to tackle various challenges related to fish behavior and game mechanics.</p>
+
+<p>Additionally, I learned the importance of effective collaboration and communication within a development team. We worked together to ensure that our individual contributions integrated smoothly, resulting in a cohesive and functional game.</p>
+
+<h2 id="resources">Resources</h2>
+
+<p><a href="https://github.com/jakapop1/jakapop1.github.io/blob/ae553bcbb5ff7d099db80edef2e9e1faf17228cf/Fishing%20Folder/README.md">readme</a></p>
+
+<p><a href="https://github.com/jakapop1/jakapop1.github.io/blob/ae553bcbb5ff7d099db80edef2e9e1faf17228cf/Fishing%20Folder/FishingTournament.java">fishingTournament.java</a></p>
+
+<p><a href="https://github.com/jakapop1/jakapop1.github.io/tree/ae553bcbb5ff7d099db80edef2e9e1faf17228cf/Fishing%20Folder">cloned repository codebase</a></p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

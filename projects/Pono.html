@@ -1,0 +1,240 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="HACC 2023 | Jakapop Khongnawang | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://avatars.githubusercontent.com/u/112127377?s=400&u=3387e3039c3950bac50364611e8231a35638a78a&v=4">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Jakapop Khongnawang | Professional Portfolio">
+    <meta property="og:url" content="https://jakapop1.github.io/projects/Pono.html">
+    <meta property="og:title" content="HACC 2023 | Jakapop Khongnawang | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://avatars.githubusercontent.com/u/112127377?s=400&u=3387e3039c3950bac50364611e8231a35638a78a&v=4">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>HACC 2023 | Jakapop Khongnawang | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Jakapop Khongnawang</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">HACC 2023</h1>
+ <!-- Brief project summary -->
+<p>HACC-2023 project with the goal of creating a web application for the people of Hawaii to find medical care regardless of insurance status.</p>
+
+<h2 id="introduction">Introduction</h2>
+
+<p>Getting medical coverage can be tricky especially if you are un/under-insured. In some cases, as a result, people seeking medical care end up not going at all as most medical facilities require decent medical coverage. This project aims to help people avoid that situation with the goals of connecting them to a qualified expert that can help.</p>
+
+<h2 id="project-overview">Project Overview</h2>
+
+<p>What this project aims to do is to provide a web application that stores and filters the locations based off of specific requirements like whether or not a facility requires insurance. Thus, people seeking medical care will be able to find experts in each field of their desired care with the hopes of saving on costs. Around the filter, my team and I have created various pages to fill out the website with things that would provide the user with as much information as possible.</p>
+
+<h2 id="goal-of-the-project">Goal of the Project</h2>
+
+<p>Create a fully interactive website that allows users to get information on their current medical needs and providing them steps towards assistance.</p>
+
+<h2 id="my-role-and-contributions">My Role and Contributions</h2>
+
+<p>For this project, I worked in a team of 4. My responsibilities were mainly the web-application’s backend. My group and I had milestones in which we were to progress in accordingly. My contribution to the project are as follows:</p>
+<ul>
+  <li>Database: Using MongoDB, I set up the user’s profiles, medical facilities</li>
+  <li>Filter: Created a filter utilizing Javascript to filter in order based off of location, medical service, and insurance status.</li>
+  <li>Data-Scraping: Through <a href="https://health.hawaii.gov/ohca/medicare-facilities/">health.hawaii.gov</a> data was gathered into a js file based off of select information (location, services, insurance etc.) and later retrieval.</li>
+</ul>
+
+<h2 id="tools-and-technologies">Tools and Technologies</h2>
+<ul>
+  <li>Programming Language: Java Script, Html, CSS</li>
+  <li>Platform: Github</li>
+  <li>Testing: TestCafe</li>
+</ul>
+
+<h2 id="design--implementation">Design &amp; Implementation</h2>
+<p><strong><em>Scraped Data Sample:</em></strong></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{
+    category: 'Adult Day Health Centers',
+    facilities: [
+      {
+        number: 1,
+        facility: 'Ann Pearl Nursing Facility',
+        providerBased: 'X',
+        freeStanding: '',
+        location: 'Oahu',
+        address: '45-181 Waikalua Road, Kaneohe, Hawaii 96744',
+        phone: '(808) 247-8558',
+        fax: '(808) 247-4115',
+        administrator: 'Robin Fortin',
+      },
+      {
+        number: 2,
+        facility: 'Arcadia Adult Day Care &amp; Day Health Center at Central Union Church',
+        providerBased: '',
+        freeStanding: 'X',
+        location: 'Oahu',
+        address: '1660 South Beretania Street, Honolulu, Hawaii 96826',
+        phone: '(808) 440-3020',
+        fax: '(808) 440-3084',
+        chiefOperatingOfficer: 'Stacey Young',
+      },  
+      
+</code></pre></div></div>
+
+<p><strong><em>Filter Code:</em></strong></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>const ListProviders = () =&gt; {
+  // State hooks for enabling sequential filters
+  const [isFacilityTypeEnabled, setIsFacilityTypeEnabled] = useState(false);
+  const [isIslandEnabled, setIsIslandEnabled] = useState(false);
+
+  // State hooks for selected options and filters
+  const [serviceType, setServiceType] = useState('');
+  const [facilityType, setFacilityType] = useState('');
+  const [island, setIsland] = useState('');
+
+  // Reset filters and refresh the page
+  const resetFilters = () =&gt; {
+    window.location.reload();
+  };
+
+  // Filtering logic based on selected filters
+  const filteredFacilities = healthcareFacilities
+    .filter(category =&gt; serviceType === '' || category.category.toLowerCase() === serviceType.toLowerCase())
+    .flatMap(category =&gt; category.facilities)
+    .filter(facility =&gt; (facilityType === '' ||
+        (facilityType === 'Free-Standing' &amp;&amp; facility.freeStanding.toLowerCase() === 'x') ||
+        (facilityType === 'Provider-Based' &amp;&amp; facility.providerBased.toLowerCase() === 'x')) &amp;&amp;
+      (island === '' || facility.location.toLowerCase() === island.toLowerCase())); 
+</code></pre></div></div>
+<p><strong><em>Database Example:</em></strong></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>import { Mongo } from 'meteor/mongo';
+import SimpleSchema from 'simpl-schema';
+
+class FavoriteUserCollection {
+  constructor() {
+    /** Define a Mongo collection to hold the user data. */
+    this.name = 'FavoriteUserCollection';
+    this.collection = new Mongo.Collection(this.name);
+
+    /** Define a schema to specify the structure of each document in the collection. */
+    this.schema = new SimpleSchema({
+      name: {
+        type: String,
+        label: 'Favorite Name',
+      },
+      address: {
+        type: String,
+        label: 'Address',
+</code></pre></div></div>
+
+<h2 id="application">Application</h2>
+<div style="text-align: center;">
+ <p style="font-weight: bold;">Upon site arrival, users are met at the landing page providing an introduction of the site. Users are able to directly go to the filter page. 
+
+</p>
+    <div>
+        <img src="/img/pono/1.PNG" style="max-width: 600px; display: inline-block; margin: 10px;" />
+        <img src="/img/pono/2.PNG" style="max-width: 600px; display: inline-block; margin: 10px;" />
+    </div>
+ <p style="font-weight: bold;">Users are then able to consecutively chose the filter options to view various providers </p>
+    <div>
+        <img src="/img/pono/3.PNG" style="max-width: 600px; display: inline-block; margin: 10px;" />
+        <img src="/img/pono/4.PNG" style="max-width: 600px; display: inline-block; margin: 10px;" />
+    </div>
+ <p style="font-weight: bold;">Users can click each of the cards for more information. </p>
+    <div>
+        <img src="/img/pono/5.PNG" style="max-width: 600px; display: inline-block; margin: 10px;" />
+        <img src="/img/pono/6.PNG" style="max-width: 600px; display: inline-block; margin: 10px;" />
+    </div>
+ <p style="font-weight: bold;">Upon clicking on a card, users have the option of favoriting a card to save for later reference if logged in. </p>
+    <div>
+        <img src="/img/pono/7.PNG" style="max-width: 600px; display: inline-block; margin: 10px;" />
+        <img src="/img/pono/8.PNG" style="max-width: 600px; display: inline-block; margin: 10px;" />
+    </div>
+ <p style="font-weight: bold;">If no existing account users will then be prompted to create one.
+
+</p>
+    <div>
+        <img src="/img/pono/9.PNG" style="max-width: 600px; display: inline-block; margin: 10px;" />
+        <img src="/img/pono/10.PNG" style="max-width: 600px; display: inline-block; margin: 10px;" />
+    </div>
+ <p style="font-weight: bold;">Users are then able to now favorite a card to be viewed later on their personal account. </p>
+    <div>
+        <img src="/img/pono/11.PNG" style="max-width: 600px; display: inline-block; margin: 10px;" />
+        <img src="/img/pono/12.PNG" style="max-width: 600px; display: inline-block; margin: 10px;" />
+    </div>
+ <p style="font-weight: bold;">In viewing the card on the user's profile, users can access the map to the location of the facility as a favorite card.
+
+</p>
+    <div>
+        <img src="/img/pono/13.PNG" tyle="max-width: 600px; display: inline-block; margin: 10px;" />
+        <img src="/img/pono/14.PNG" style="max-width: 600px; display: inline-block; margin: 10px;" />
+    </div>
+ <p style="font-weight: bold;">Users also have the option to edit their personal information while adding a profile picture. </p>
+    <div>
+        <img src="/img/pono/15.PNG" style="max-width: 600px; display: inline-block; margin: 10px;" />
+        <img src="/img/pono/16.PNG" style="max-width: 600px; display: inline-block; margin: 10px;" />
+    </div>
+ <p style="font-weight: bold;">Those needing more information and resources have the resources page and faq page to consult
+
+. </p>
+    <div>
+        <img src="/img/pono/17.PNG" style="max-width: 600px; display: inline-block; margin: 10px;" />
+        <img src="/img/pono/18.PNG" style="max-width: 600px; display: inline-block; margin: 10px;" />
+    </div>
+</div>
+<blockquote>
+
+</blockquote>
+
+<h2 id="lessons-learned">Lessons Learned</h2>
+
+<p>Through this project, I have gained further insight into the collaborative environment of software development. Requiring many components to be made, this project allowed me to work with others while addressing various issues throughout the developmental process. As a result, I was able to practice javascript/html/css with different libraries to allow me to program the different functions to be put together into our final result.</p>
+
+<h2 id="resources">Resources</h2>
+
+<p><a href="https://ponohealthproviders.com/">Deployed-site</a> <br />
+<a href="https://team-jackfruit.github.io/PonoHealthProviders/">Github Homepage</a> <br />
+<a href="https://github.com/team-jackfruit/PonoHealthProviders/blob/main/README.md">readme</a> <br />
+<a href="https://github.com/team-jackfruit/PonoHealthProviders">Repository</a></p>
+
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

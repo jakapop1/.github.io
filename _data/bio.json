@@ -1,0 +1,96 @@
+{
+  "basics": {
+    "name": "Jakapop Khongnawang",
+    "label": "Student",
+    "picture": "https://avatars.githubusercontent.com/u/112127377?s=400&u=3387e3039c3950bac50364611e8231a35638a78a&v=4",
+    "email": "jakapop@hawaii.edu",
+    "phone": "808-953-4541",
+    "website": "https://jakapop1.github.io/",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025. After graduation, I hope to work as a software engineer!",
+    "location": {
+      "postalCode": "96816",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "jakapop1",
+        "url": "http://github.com/jakapop1"
+      },
+      {
+        "network": "linkedin",
+        "username": "jakapop khongnawang",
+        "url": "https://linkedin.com/in/jakapop-khongnawang-a4635928a"
+      }
+    ]
+  },
+  "interests": [
+    { "name": "Social Media" },
+    { "name": "Computer Science" },
+    { "name": "Software Development" },
+    { "name": "Programming Languages" },
+    { "name": "Continuous Learning" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Html", "CSS" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Windows", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "B.S."
+    }
+  ],
+  "work": [
+    {
+      "position": "Full-Time Student"
+    }
+  ],
+  "volunteer": [
+  {
+    "organization": "Ala-Moana Beach Clean-Ups",
+    "position": "Volunteer",
+    "startDate": "2020",
+    "endDate": "2020",
+    "summary": "Participated in local beach clean-up initiatives, contributing to the preservation of Hawaii's pristine coastal ecosystems. Collaborated with community members to remove debris and promote environmental sustainability.",
+    "highlights": [
+      "Engaged in regular clean-up events organized by environmental organizations."
+    ]
+  },
+  {
+    "organization": "Kapiolani Community College Blood Drive",
+    "position": "Volunteer Coordinator",
+    "startDate": "2018",
+    "endDate": "2018",
+    "summary": "Served as a Volunteer Coordinator for the Kapiolani Community College Blood Drive, a vital community service initiative. Led a dedicated team in organizing and facilitating blood donation campaigns, contributing to saving lives within the local community.",
+    "highlights": [
+      "Coordinated successful blood donation events, ensuring a steady supply of blood for medical emergencies.",
+      "Recruited and educated volunteers, enhancing the effectiveness of the blood drive program."
+    ]
+  }
+]
+,
+  "awards": [
+    {
+      "title": "Pell Grant",
+      "date": "2022-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Received a Pell Grant through FAFSA to support my higher education expenses."
+    }
+  ],
+  "references": [
+    {
+      "name": "References available upon request."
+    }
+  ]
+}
+

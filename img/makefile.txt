@@ -1,0 +1,29 @@
+# Makefile 
+# Jakapop Khongnawang 4/27/2023
+CC=gcc
+CFLAGS= -std=c99 -g -Wall -Wshadow -Wpedantic -Wvla -Werror
+# add some standard arguments to gcc
+# -std=c99 means to use the C99 version of the C language.
+# -g means to enable gdb by storing information such as your variable names
+#   in the executable
+#  -Wall, -Wshadow, -Wpedantic, -Wvla, -Werror turn on extra warnings to let
+#   you know about anomalies in your code might indicate a bug.
+
+SOURCES=prj_jakapop.c
+OBJECTS=$(SOURCES:.c=.o)
+EXECUTABLE=prj_jakapop
+
+# Link object files into the executable
+$(EXECUTABLE): $(OBJECTS)
+	$(CC) $(OBJECTS) -o $@
+
+# Compile each source file into an object file
+.c.o:
+	$(CC) $(CFLAGS) -c -o $@ $<
+
+# Build all object files and the executable
+all: $(SOURCES) $(EXECUTABLE)
+
+# Clean up object files and the executable
+clean:
+	rm -f $(OBJECTS) $(EXECUTABLE)

@@ -1,0 +1,193 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="SHA-1 | Jakapop Khongnawang | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://avatars.githubusercontent.com/u/112127377?s=400&u=3387e3039c3950bac50364611e8231a35638a78a&v=4">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Jakapop Khongnawang | Professional Portfolio">
+    <meta property="og:url" content="https://jakapop1.github.io/projects/SHA-1%20Hash.html">
+    <meta property="og:title" content="SHA-1 | Jakapop Khongnawang | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://avatars.githubusercontent.com/u/112127377?s=400&u=3387e3039c3950bac50364611e8231a35638a78a&v=4">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>SHA-1 | Jakapop Khongnawang | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Jakapop Khongnawang</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">SHA-1</h1>
+ <!-- Add a professional header with centered title and image -->
+<div style="text-align: center;">
+  <h1 style="font-size: 28px;"></h1>
+  <img src="/img/door.png" alt="Japan" style="max-width: 600px; margin: 20px auto;" />
+</div>
+
+<!-- Brief project summary -->
+<p>Implemented the SHA-1 hash algorithm in C++, processing a million hashes, and emphasizing data security and algorithm integrity for the portfolio project for my ICS 212 class.</p>
+
+<h2 id="project-overview">Project Overview</h2>
+
+<p>SHA-1 (Secure Hash Algorithm 1) is a cryptographic hashing function that produces a 160-bit hash value, commonly used in various security applications and systems developed by the U.S. National Security in 1995. Despite vulnerabilities having been found over the years, many applications continue to rely on SHA-1. For this project, I implemented the SHA-1 alrogrithm to read files, preprocess the data, and produce to hash value by following the specifications of FIPS PUB 180-1 (Federal Information Processing Standards Publication 180-1).</p>
+
+<h2 id="key-features">Key Features</h2>
+<ul>
+  <li><strong>Preprocessing</strong>: Prepares data being inputed for hashing function.</li>
+  <li><strong>Single block Haskhing</strong>: Successfully computed the hash value for a small file (<code class="language-plaintext highlighter-rouge">abc.txt</code>) with a single block.</li>
+  <li><strong>Multi-block Hashing</strong>:  Extended the algorithm to process larger files with multiple blocks, such as <code class="language-plaintext highlighter-rouge">alpha.txt</code> and <code class="language-plaintext highlighter-rouge">a.txt</code>.</li>
+</ul>
+
+<h2 id="my-role-and-contributions">My Role and Contributions</h2>
+
+<p>I was responsible for designing, coding, and testing the SHA-1 hashing tool in C++. Key contributions included:</p>
+
+<h3 id="sha-1-hashing-implementation">SHA-1 Hashing Implementation</h3>
+
+<p>Implemented the complete SHA-1 hashing algorithm, adhering to standard specifications. Ensured efficient and accurate hashing of data read from a text file.</p>
+
+<h3 id="input-data-handling">Input Data Handling</h3>
+
+<p>Developed a the program to read and process data from a text file, maintaining data integrity.</p>
+
+<h3 id="testing-and-validation">Testing and Validation</h3>
+
+<p>Conducted extensive testing through various debug statements in each function to ensure proper output in accordance to FIPS180-1-SecureHashStandard.</p>
+
+<h2 id="code-snippets">Code Snippets</h2>
+
+<p>Below is a snippet from my code in which includes the main method calling various functions defined implementing the SHA-1 with a couple of the functions below as examples utilizing debug statements used for testing during the development phase of the project to ensure proper output in accordance to documentation.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+
+int main(int argc, char *argv[]) {
+    unsigned char buffer[MAX_SIZE] = {0};  // Buffer to store the input data
+    unsigned int message[MAX_SIZE / 4] = {0};  // Array to store the padded message in 32-bit words
+
+    // Read input data and store it in buffer
+    unsigned int sizeOfFileInBytes = readFile(buffer);
+    // Calculate the number of 512-bit blocks needed for padding
+    unsigned int blockCount = calculateBlocks(sizeOfFileInBytes);
+
+    // Convert the input data to 32-bit words and store in the message array
+    convertCharArrayToIntArray(buffer, message, sizeOfFileInBytes);
+    // Add the original message length to the last block of the message array
+    addBitCountToLastBlock(message, sizeOfFileInBytes, blockCount);
+
+    // Compute the message digest using SHA-1 algorithm
+    computeMessageDigest(message, blockCount);
+
+    return 0;
+}
+
+// Reads input data from stdin and stores it in the buffer
+unsigned int readFile(unsigned char buffer[]) {
+    unsigned int sizeOfFileInBytes = 0;
+    int c;
+
+    // Read characters from stdin until EOF is reached
+    while ((c = getchar()) != EOF) {
+        // Check if the input data size exceeds the maximum size
+        if (sizeOfFileInBytes &gt;= MAX_SIZE - 1) {
+            fprintf(stderr, "Error: Input file is too big.\n");
+            exit(EXIT_FAILURE);
+        }
+        buffer[sizeOfFileInBytes++] = (unsigned char)c;
+    }
+    // Append the "1" bit to the end of the message
+    buffer[sizeOfFileInBytes] = 0x80;
+
+    // Debug: Print the size of the read file in bytes
+    //printf("Size of Read File: %u bytes\n", sizeOfFileInBytes);
+
+    return sizeOfFileInBytes;
+}
+
+// Calculates the number of 512-bit blocks needed for padding the message
+unsigned int calculateBlocks(unsigned int sizeOfFileInBytes) {
+    unsigned int blockCount = (((8 * sizeOfFileInBytes) + 1) / 512) + 1;
+
+    // Check if an additional block is needed for the message length
+    if ((((8 * sizeOfFileInBytes) + 1) % 512) &gt; (512 - 64)) {
+        blockCount += 1;
+    }
+
+    // Debug: Print the size of the file in bytes and the calculated block count
+    //printf("File Size: %u bytes\n", sizeOfFileInBytes);
+    //printf("Block Count: %u\n", blockCount);
+
+    return blockCount;
+}
+
+
+</code></pre></div></div>
+
+<h2 id="lessons-learned">Lessons Learned</h2>
+
+<p>This project provided valuable insights into cryptography, algorithm implementation, and data security. Key takeaways include:</p>
+
+<ul>
+  <li>
+    <p>Cryptographic Expertise: Gained a deeper understanding of cryptographic principles, especially in the context of hashing algorithms.</p>
+  </li>
+  <li>
+    <p>Proficiency in C++: Improved programming skills in C++, particularly in handling file input/output and cryptographic operations.</p>
+  </li>
+  <li>
+    <p>Data Integrity and Security: Emphasized the critical importance of data integrity and security in cryptographic applications.</p>
+  </li>
+</ul>
+
+<p>The SHA-1 hashing tool in C++ represents a significant addition to my portfolio, showcasing my ability to create secure and efficient tools for data processing and cryptography.</p>
+
+<h2 id="resources">Resources</h2>
+
+<p><a href="https://github.com/jakapop1/jakapop1.github.io/blob/5cda4fe837dd7a5dd4387843918af05bc7e26ca3/img/FIPS180-1-SecureHashStandard-3.pdf">FIPS180-1-SecureHashStandard</a></p>
+
+<p><a href="https://github.com/jakapop1/jakapop1.github.io/blob/02dc49b2ea3217db129809c8980585ccb45bdb16/img/a.txt">a.txt</a></p>
+
+<p><a href="https://github.com/jakapop1/jakapop1.github.io/blob/02dc49b2ea3217db129809c8980585ccb45bdb16/img/abc.txt">abc.txt</a></p>
+
+<p><a href="https://github.com/jakapop1/jakapop1.github.io/blob/02dc49b2ea3217db129809c8980585ccb45bdb16/img/alpha.txt">alpha.txt</a></p>
+
+<p><a href="https://github.com/jakapop1/jakapop1.github.io/blob/3b6f6aafe8feb641f3364195b878e0902cf7167a/img/prj_jakapop.c">project.c</a></p>
+
+<p><a href="https://github.com/jakapop1/jakapop1.github.io/blob/3b6f6aafe8feb641f3364195b878e0902cf7167a/img/makefile.txt">makefile</a></p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
