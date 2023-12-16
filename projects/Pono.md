@@ -186,7 +186,7 @@ class FavoriteUserCollection {
 
 ## Lessons Learned
 
-Through this project, I have gained further insight into collaborative environment and web application building. Requiring many components to be made, this project allowed me to work with others while addressing various issues throughout the developmental process. As a result, we created various parts that worked together to work as a whole. 
+Through this project, I have gained further insight into the collaborative environment of software development. Requiring many components to be made, this project allowed me to work with others while addressing various issues throughout the developmental process. As a result, I was able to practice javascript/html/css with different libraries to allow me to program the different functions to be put together into our final result.
 
 
 
