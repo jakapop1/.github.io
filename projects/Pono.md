@@ -46,7 +46,8 @@ For this project, I worked in a team of 4. My responsibilities were mainly the w
 
 
 ## Design & Implementation
-- Scraped Data Sample:
+***Scraped Data Sample:***
+
 ```
 {
     category: 'Adult Day Health Centers',
@@ -76,7 +77,8 @@ For this project, I worked in a team of 4. My responsibilities were mainly the w
       
 ```
 
-- Filter Code 
+***Filter Code:*** 
+
 ```
 const ListProviders = () => {
   // State hooks for enabling sequential filters
@@ -102,7 +104,8 @@ const ListProviders = () => {
         (facilityType === 'Provider-Based' && facility.providerBased.toLowerCase() === 'x')) &&
       (island === '' || facility.location.toLowerCase() === island.toLowerCase())); 
 ```
-- Database Example:
+***Database Example:***
+
 ```
 import { Mongo } from 'meteor/mongo';
 import SimpleSchema from 'simpl-schema';
