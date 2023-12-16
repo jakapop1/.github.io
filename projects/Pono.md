@@ -131,6 +131,7 @@ class FavoriteUserCollection {
         <img src="/img/pono/1.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
         <img src="/img/pono/2.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
     </div>
+<p>Users are then able to consecutively chose the filter options to view various providers </p>
     <div>
         <img src="/img/pono/3.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
         <img src="/img/pono/4.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
@@ -139,10 +140,12 @@ class FavoriteUserCollection {
         <img src="/img/pono/5.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
         <img src="/img/pono/6.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
     </div>
+<p>Upon clicking on a card, users have the option of favoriting a card to save for later reference if logged in. </p>
     <div>
         <img src="/img/pono/7.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
         <img src="/img/pono/8.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
     </div>
+<p>If no existing account users will then be prompted to create one.</p>
     <div>
         <img src="/img/pono/9.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
         <img src="/img/pono/10.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
@@ -151,6 +154,7 @@ class FavoriteUserCollection {
         <img src="/img/pono/11.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
         <img src="/img/pono/12.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
     </div>
+<p>In viewing the card on the user's profile, users can add a profile picture or even get directions to the favorited location.</p>
     <div>
         <img src="/img/pono/13.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
         <img src="/img/pono/14.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
@@ -159,6 +163,7 @@ class FavoriteUserCollection {
         <img src="/img/pono/15.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
         <img src="/img/pono/16.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
     </div>
+<p>Those needing more information and resources have the resources page and faq page to consult. </p>
     <div>
         <img src="/img/pono/17.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
         <img src="/img/pono/18.PNG" alt="Fishing Game" style="max-width: 600px; display: inline-block; margin: 10px;" />
