@@ -14,13 +14,13 @@ labels:
 summary: "ICS314/HACC project"
 ---
 
-[//]: # (<div style="text-align: center;">)
+<div style="text-align: center;">
 
-[//]: # (  <h1 style="font-size: 28px;"></h1>)
+  <h1 style="font-size: 28px;"></h1>
 
-[//]: # (  <img src="/img/pono/1.PNG" alt="Fishing Game" style="max-width: 600px; margin: 20px auto;" />  )
+  <img src="/img/pono/1.PNG" alt="Fishing Game" style="max-width: 600px; margin: 20px auto;" />  
 
-[//]: # (</div>)
+</div>
 
 <!-- Brief project summary -->
 HACC-2023 project with the goal of creating a web application for the people of Hawaii to find medical care regardless of insurance status. 
