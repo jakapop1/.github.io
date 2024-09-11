@@ -6,7 +6,7 @@
     "email": "jakapop@hawaii.edu",
     "phone": "808-953-4541",
     "website": "https://jakapop1.github.io/",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025. After graduation, I hope to work as a software engineer!",
+    "summary": "I am currently in pursuit of a Bachelors in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025. After graduation, I aim to build and develop my skills in cybersecurity by utilizing my skills to maintain and improve the security posture of the organization I am under. ",
     "location": {
       "postalCode": "96816",
       "city": "Honolulu",
@@ -31,16 +31,17 @@
     { "name": "Computer Science" },
     { "name": "Software Development" },
     { "name": "Programming Languages" },
-    { "name": "Continuous Learning" }
+    { "name": "Continuous Learning" },
+    { "name": "Capture The Flag" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Html", "CSS" ]
+      "keywords": [ "Python", "Javascript", "SQL"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows", "Git/GitHub" ]
+      "keywords": [ "Windows", "Kali-Linux" ]
     }
   ],
   "education": [
@@ -48,6 +49,11 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science",
       "studyType": "B.S."
+    },
+        {
+      "institution": "Kapiolani Community College, Honolulu, HI",
+      "area": "Information and Communications Technology",
+      "studyType": "A.S."
     }
   ],
   "work": [
@@ -81,16 +87,11 @@
 ,
   "awards": [
     {
-      "title": "Pell Grant",
-      "date": "2022-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Received a Pell Grant through FAFSA to support my higher education expenses."
+      "title": "CyberCorp: SFS",
+      "date": "2024-Present",
+      "awarder": "National Science Foundation",
+      "summary": "Program provided by the federal government to recruit and train information technology professionals to meet the needs of cybersecurity mission for Federal, State, local, and tribal governments."
     }
   ],
-  "references": [
-    {
-      "name": "References available upon request."
-    }
-  ]
 }
 
